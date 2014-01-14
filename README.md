@@ -1,4 +1,4 @@
-bestair-documentation
-=====================
+BestAIR  Documentation
+======================
 
-BestAIR documentation for sleepdata.org
+Version controlled repository for BestAIR documentation on [sleepdata.org](http://sleepdata.org/datasets/bestair)
