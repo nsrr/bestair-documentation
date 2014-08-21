@@ -23,7 +23,7 @@ The Statistics tab contains settings for data analysis limits.
 * 4. Click **Close**
 * 5. Define the edit limits for data analysis
 
-| Parameters     | | Limit |
+| Parameters     | Limit |
 |:--------------:|:-----:|
 | Systolic Max   | 260   |
 | Systolic Min   | 60    |
