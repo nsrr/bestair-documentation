@@ -1,7 +1,7 @@
 ## 1.2 Time Tables with Windows
 
 | Visit or Phone Contact     | Time Window |
-|:--------------------------:|:-----------:|
+|:--------------------------:|:-----------|
 | Confirmation of Eligibility and Equipoise | Pre-Screening or Screening Visit (no window) |
 | Run-In Period | 2 Weeks (must complete 11 of 14 days) |
 | Baseline Visit at Clinical Research Center at CCI | Within 4 weeks of screening (or 2 weeks after end of run-in period) |
