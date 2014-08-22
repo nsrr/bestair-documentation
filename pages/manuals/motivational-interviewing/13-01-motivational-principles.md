@@ -1,8 +1,8 @@
 ## 13.1 Motivational Principles to Guide Each Session
 
-**<u>Guiding Principles (FRAMES)</u>:** **F**eedback, **R**esponsibility, **A**dvice, **M**enu, **E**mpathy, and **S**elf-Efficacy
+**<u>Guiding Principles (FRAMES)</u>:** Feedback, Responsibility, Advice, Menu, Empathy, and Self-Efficacy
 
-**<u>Key Concepts (DEARS DEARS)</u>:** **D**evelop **d**iscrepancy, **E**xpress **e**mpathy, **A**void **a**rgumentation, **R**oll with **r**esistance, **S**upport **s**elf-efficacy
+**<u>Key Concepts (DEARS DEARS)</u>:** Develop discrepancy, Express empathy, Avoid argumentation, Roll with resistance, Support self-efficacy
 
 
 
