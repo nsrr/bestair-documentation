@@ -18,7 +18,7 @@ Quantitative measurements of LV function entail manually digitizing the left ven
 
 **NOTE:**   To be acceptable for the study, the parasternal long and short axis views, and the apical views, must be of sufficient quality to allow for digitization of the LV endocardium.
 
-| View |  |
+| View | Type |
 |:----:|::|
 | **Pasternal Long Axis View** | 1. 2D |
 | **Pasternal Short Axis View: MV Level** | 1. 2D <br> 2. Tips of mitral valve leaflets (for Left Ventricular Mass) <br> 3. Color Doppler mitral valve |
