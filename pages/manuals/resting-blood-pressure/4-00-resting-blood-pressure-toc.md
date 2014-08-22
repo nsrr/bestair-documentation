@@ -16,7 +16,7 @@
 <div class="btn-group">
   <a href=":pages_path:/manuals/manual-toc.md" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-up"></span>
-    Table of Contents - Manuals
+    Table of Contents - Manualsc
   </a>
 
   <a href=":pages_path:/manuals/resting-blood-pressure/4-01-guidelines-for-resting.md" class="btn btn-success">
