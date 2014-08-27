@@ -24,3 +24,10 @@
     <span class="glyphicon glyphicon-chevron-up"></span>
     Schedule of Visits
   </a>
+
+  <a href=":pages_path:/manuals/schedule-of-visits/1-03-timing-in-lab-procedures.md" class="btn btn-success">
+    1.3 Timing of In-Lab Procedures
+    <span class="glyphicon glyphicon-chevron-right"></span>
+  </a>
+</div>
+</div>
