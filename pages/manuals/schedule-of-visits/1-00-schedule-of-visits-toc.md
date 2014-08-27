@@ -2,6 +2,7 @@
 
 * [1.1 Overview](:pages_path:/manuals/schedule-of-visits/1-01-overview.md)
 * [1.2 Time Tables with Windows](:pages_path:/manuals/schedule-of-visits/1-02-time-table-window.md)
+* [1.3 Timing of In-Lab Procedures](:pages_path:/manuals/schedule-of-visits/1-03-timing-in-lab-procedures.md)
 
 
 <div class="center">
