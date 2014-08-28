@@ -2,7 +2,7 @@
 
 **<u>Lights OFF</u>** is based on the participant’s self-reported time to bed.  When this information is absent or occurs after clear sleep onset Lights OFF is set at Sleep Onset.
 
-**<u>ights ON</u>** is based on the participant’s self-reported wake time.  If this is not available or reliable, Lights ON is marked after the last epoch scored as sleep (i.e. sleep offset) until the last epoch of the recording.
+**<u>Lights ON</u>** is based on the participant’s self-reported wake time.  If this is not available or reliable, Lights ON is marked after the last epoch scored as sleep (i.e. sleep offset) until the last epoch of the recording.
 
 **<u>Sleep Onset</u>** is based on both a self-reported “Sleep Time” and a qualitative assessment which includes evidence of reduction in artifact across channels, reduction in heart rate, and assumption of rhythmic breathing.
 
