@@ -25,11 +25,11 @@ Upon completed scoring an Embletta QS Form is filled out.  This form tracks the 
 
 **<u>Overall Study Quality</u>** is assigned to reflect the absolute duration of artifact free signals for the four primary signals: nasal pressure, oxygen saturation, and both respiratory effort belts:
 
- **Fail:**  Less than 2 hrs of oximetry and nasal pressure or one band
- **Poor:**  Oximetry and either nasal pressure or one band usable for > 2 hrs but less than 4 hrs
- **Fair:**  Nasal pressure, one band, and oximetry or both bands and oximetry usable for > 4 hrs
- **Excellent:**  All channels are useable for > 4 hrs but < 6 hrs
- **Outstanding:**  All channels are good for > 6 hrs
+ * **Fail:**  Less than 2 hrs of oximetry and nasal pressure or one band
+ * **Poor:**  Oximetry and either nasal pressure or one band usable for > 2 hrs but less than 4 hrs
+ * **Fair:**  Nasal pressure, one band, and oximetry or both bands and oximetry usable for > 4 hrs
+ * **Excellent:**  All channels are useable for > 4 hrs but < 6 hrs
+ * **Outstanding:**  All channels are good for > 6 hrs
 
 
 <div class="center">
