@@ -1,4 +1,4 @@
-## 9.3 Patient Identification on Recorded Images
+## 8.3 Patient Identification on Recorded Images
 
 **There should be no protected health information, such as name or medical record number, on actual echo recordings.**
 
@@ -15,9 +15,9 @@ On the data screen for the echocardiogram, the following items should be recorde
 
 <div class="center">
 <div class="btn-group">
-  <a href=":pages_path:/manuals/echo/9-02-equipment.md" class="btn btn-default">
+  <a href=":pages_path:/manuals/echo/8-02-equipment.md" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-left"></span>
-    9.2 Equipment
+    8.2 Equipment
   </a>
 
   <a href=":pages_path:/manuals/echo" class="btn btn-default">
@@ -25,8 +25,8 @@ On the data screen for the echocardiogram, the following items should be recorde
     Echo
   </a>
 
-  <a href=":pages_path:/manuals/echo/9-04-patient-preparation.md" class="btn btn-success">
-    9.4 Patient Perparation
+  <a href=":pages_path:/manuals/echo/8-04-patient-preparation.md" class="btn btn-success">
+    8.4 Patient Perparation
     <span class="glyphicon glyphicon-chevron-right"></span>
   </a>
 </div>

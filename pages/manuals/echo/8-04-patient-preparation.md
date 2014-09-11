@@ -1,4 +1,4 @@
-## 9.4 Patient Preparation
+## 8.4 Patient Preparation
 
 * The patient should be placed in the steep left lateral decubitus position unless this position is medically contraindicated for the patient.
 * Electrocardiographic leads (3-lead) should be placed on the patient prior to imaging and an adequate ECG signal in which the QRS complex is clearly identifiable should be visible on the echocardiographic monitor.
@@ -9,9 +9,9 @@
 
 <div class="center">
 <div class="btn-group">
-  <a href=":pages_path:/manuals/echo/9-03-pt-id-recorded-images.md" class="btn btn-default">
+  <a href=":pages_path:/manuals/echo/8-03-pt-id-recorded-images.md" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-left"></span>
-    9.3 Patient Identification on Recorded Images
+    8.3 Patient Identification on Recorded Images
   </a>
 
   <a href=":pages_path:/manuals/echo" class="btn btn-default">
@@ -19,8 +19,8 @@
     Echo
   </a>
 
-  <a href=":pages_path:/manuals/echo/9-05-quality-required-views.md" class="btn btn-success">
-    9.5 Echocardiographic Quality and Required Views to Obtain
+  <a href=":pages_path:/manuals/echo/8-05-quality-required-views.md" class="btn btn-success">
+    8.5 Echocardiographic Quality and Required Views to Obtain
     <span class="glyphicon glyphicon-chevron-right"></span>
   </a>
 </div>

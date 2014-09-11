@@ -1,4 +1,4 @@
-## 9.6.4 Apical 5-Chamber View
+## 8.6.4 Apical 5-Chamber View
 
 **In the ideal echocardiographic “window” for the Apical 5-Chamber View:**
 
@@ -13,9 +13,9 @@
 
 <div class="center">
 <div class="btn-group">
-  <a href=":pages_path:/manuals/echo/9-06-03-apical-4-chamber-view.md" class="btn btn-default">
+  <a href=":pages_path:/manuals/echo/8-06-03-apical-4-chamber-view.md" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-left"></span>
-    9.6.3 Apical 4-Chamber View
+    8.6.3 Apical 4-Chamber View
   </a>
 
   <a href=":pages_path:/manuals/echo" class="btn btn-default">
@@ -23,8 +23,8 @@
     Echo
   </a>
 
-  <a href=":pages_path:/manuals/echo/9-06-05-apical-2-chamber-view.md" class="btn btn-success">
-    9.6.5 Apical 2-Chamber View
+  <a href=":pages_path:/manuals/echo/8-06-05-apical-2-chamber-view.md" class="btn btn-success">
+    8.6.5 Apical 2-Chamber View
     <span class="glyphicon glyphicon-chevron-right"></span>
   </a>
 </div>

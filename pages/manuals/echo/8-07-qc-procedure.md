@@ -1,4 +1,4 @@
-## 9.7 Quality Control Procedure
+## 8.7 Quality Control Procedure
 
 Every three months, a quality control assessment will be implemented to ensure acceptable intra-observer reproducibility, defined as a correlation coefficient of >0.9.  The Echo Core lab at Brigham and Women’s Hospital has previously demonstrated excellent intra- and inter-observer variability as shown in Table 2.  Parameters on which variability will be assessed include LVEF, LVEDV, and LVESV.
 
@@ -21,9 +21,9 @@ Table 2.2: IntER-observer Reproducibility Measures
 
 <div class="center">
 <div class="btn-group">
-  <a href=":pages_path:/manuals/echo/9-06-05-apical-2-chamber-view.md" class="btn btn-default">
+  <a href=":pages_path:/manuals/echo/8-06-05-apical-2-chamber-view.md" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-left"></span>
-    9.6.5 Apical 2-Chamber View
+    8.6.5 Apical 2-Chamber View
   </a>
 
   <a href=":pages_path:/manuals/echo" class="btn btn-default">

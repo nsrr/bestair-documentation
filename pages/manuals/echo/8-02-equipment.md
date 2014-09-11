@@ -1,4 +1,4 @@
-## 9.2 Equipment
+## 8.2 Equipment
 
 * A 3.5 MHz transducer is recommended for obtaining images though some patients might require a lower or higher frequency to obtain optimal results (acceptable range: 2.5 to 5 MHz). Please use the same frequency transducer for all the studies on a given patient.
 * Please use the highest possible frequency that allows adequate penetration for endocardial border definition.
@@ -9,9 +9,9 @@
 
 <div class="center">
 <div class="btn-group">
-  <a href=":pages_path:/manuals/echo/9-01-personnel.md" class="btn btn-default">
+  <a href=":pages_path:/manuals/echo/8-01-personnel.md" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-left"></span>
-    9.1 Personnel
+    8.1 Personnel
   </a>
 
   <a href=":pages_path:/manuals/echo" class="btn btn-default">
@@ -19,8 +19,8 @@
     Echo
   </a>
 
-  <a href=":pages_path:/manuals/echo/9-03-pt-id-recorded-images.md" class="btn btn-success">
-    9.3 Patient Identification on Recorded Images
+  <a href=":pages_path:/manuals/echo/8-03-pt-id-recorded-images.md" class="btn btn-success">
+    8.3 Patient Identification on Recorded Images
     <span class="glyphicon glyphicon-chevron-right"></span>
   </a>
 </div>

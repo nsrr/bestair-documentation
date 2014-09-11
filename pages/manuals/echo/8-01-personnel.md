@@ -1,4 +1,4 @@
-## 9.1  Personnel
+## 8.1  Personnel
 
 **PLEASE NOTE:** When possible, the same sonographer should obtain all study echos on a given patient.
 
@@ -6,7 +6,7 @@
 
 <div class="center">
 <div class="btn-group">
-  <a href=":pages_path:/manuals/echo/9-00-echo-toc.md" class="btn btn-default">
+  <a href=":pages_path:/manuals/echo/8-00-echo-toc.md" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-left"></span>
     Table of Contents
   </a>
@@ -16,8 +16,8 @@
     Echo
   </a>
 
-  <a href=":pages_path:/manuals/echo/9-02-equipment.md" class="btn btn-success">
-    9.2 Equipment
+  <a href=":pages_path:/manuals/echo/8-02-equipment.md" class="btn btn-success">
+    8.2 Equipment
     <span class="glyphicon glyphicon-chevron-right"></span>
   </a>
 </div>

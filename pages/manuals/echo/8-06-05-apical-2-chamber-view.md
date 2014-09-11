@@ -1,4 +1,4 @@
-## 9.6.5 Apical 2-Chamber View
+## 8.6.5 Apical 2-Chamber View
 
 **In the ideal echocardiographic “window” for the Apical 5-Chamber View:**
 
@@ -11,9 +11,9 @@
 
 <div class="center">
 <div class="btn-group">
-  <a href=":pages_path:/manuals/echo/9-06-04-apical-5-chamber-view.md" class="btn btn-default">
+  <a href=":pages_path:/manuals/echo/8-06-04-apical-5-chamber-view.md" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-left"></span>
-    9.6.4 Apical 5-Chamber View
+    8.6.4 Apical 5-Chamber View
   </a>
 
   <a href=":pages_path:/manuals/echo" class="btn btn-default">
@@ -21,8 +21,8 @@
     Echo
   </a>
 
-  <a href=":pages_path:/manuals/echo/9-07-qc-procedure.md" class="btn btn-success">
-    9.7 Quality Control Procedure
+  <a href=":pages_path:/manuals/echo/8-07-qc-procedure.md" class="btn btn-success">
+    8.7 Quality Control Procedure
     <span class="glyphicon glyphicon-chevron-right"></span>
   </a>
 </div>

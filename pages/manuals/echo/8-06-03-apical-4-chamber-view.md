@@ -1,4 +1,4 @@
-## 9.6.3 Apical 4-Chamber View
+## 8.6.3 Apical 4-Chamber View
 
 **In the ideal echocardiographic “window” for the Apical 4-Chamber View:**
 
@@ -6,7 +6,7 @@
 * The entire LV endocardium must be within the sector scan in both end-diastole and end-systole. Pay special attention the apex and the lateral LV free wall; the most difficult areas to visualize.
 * Be sure to properly align the image and capture the left atrium in full. Avoid any foreshortening of the chamber.
 
-### 9.6.3.1 Color and Spectral Doppler of Mitral Inflow
+### 8.6.3.1 Color and Spectral Doppler of Mitral Inflow
 
 In addition to 2D imaging, the following Doppler examinations will be required from this view.
 
@@ -20,7 +20,7 @@ In addition to 2D imaging, the following Doppler examinations will be required f
  * Set the scale to 80 cm/sec and record at 50 mm/sec and 100 mm/sec sweep speeds for at least five cardiac cycles - the faster speed is essential for more accurate measurements.
  * Reset scale if necessary to optimize the flow signal.
 
-### 9.6.3.2 Tissue Doppler Imaging (TDI) Spectra of Mitral Annulus
+### 8.6.3.2 Tissue Doppler Imaging (TDI) Spectra of Mitral Annulus
 
 **IMAGE**
 
@@ -33,11 +33,11 @@ In addition to 2D imaging, the following Doppler examinations will be required f
 7. Before collecting data, set the Pulsed Doppler velocity range to avoid velocity aliasing (a velocity range of +/- 24 cm/sec is normal though patients with high heart rates may require a higher setting).
 8. Once a clear pattern is obtained, record at least 10-20 beats during quiet respiration (or preferably during breath holding at end-expiration).
 
-### 9.6.3.3 Color M-Mode Doppler (CMM)
+### 8.6.3.3 Color M-Mode Doppler (CMM)
 
 Color M-Mode (CMM) is used to derive the propagation velocity of early flow into the LV cavity (Vp) and is useful as a complimentary index of LV filling.  The CMM of the LV inflow represents velocity and measures the rate of propagation of LV peak filling velocity during diastole.
 
-##### 9.6.3.3.1 Obtaining a High Quality CMM Exam of LV Filling
+##### 8.6.3.3.1 Obtaining a High Quality CMM Exam of LV Filling
 
 1. Start with an apical 4-chamber view using a standard 2-D depth of 16 cm.
 2. Adjust the color sector to fit only over the LV chamber including the mitral valve and a portion of the LA to maximize the color frame rate and provide a better quality CMM.
@@ -53,9 +53,9 @@ Color M-Mode (CMM) is used to derive the propagation velocity of early flow into
 
 <div class="center">
 <div class="btn-group">
-  <a href=":pages_path:/manuals/echo/9-06-02-pasternal-short-axis-view.md" class="btn btn-default">
+  <a href=":pages_path:/manuals/echo/8-06-02-pasternal-short-axis-view.md" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-left"></span>
-    9.6.2 Pasternal Short Axis View
+    8.6.2 Pasternal Short Axis View
   </a>
 
   <a href=":pages_path:/manuals/echo" class="btn btn-default">
@@ -63,8 +63,8 @@ Color M-Mode (CMM) is used to derive the propagation velocity of early flow into
     Echo
   </a>
 
-  <a href=":pages_path:/manuals/echo/9-06-04-apical-5-chamber-view.md" class="btn btn-success">
-    9.6.4 Apical 5-Chamber View
+  <a href=":pages_path:/manuals/echo/8-06-04-apical-5-chamber-view.md" class="btn btn-success">
+    8.6.4 Apical 5-Chamber View
     <span class="glyphicon glyphicon-chevron-right"></span>
   </a>
 </div>

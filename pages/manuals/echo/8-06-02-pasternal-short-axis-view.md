@@ -1,4 +1,4 @@
-## 9.6.2 Parasternal Short Axis View
+## 8.6.2 Parasternal Short Axis View
 
 **In the ideal echocardiographic “window” for the short axis:**
 
@@ -16,9 +16,9 @@
 
 <div class="center">
 <div class="btn-group">
-  <a href=":pages_path:/manuals/echo/9-06-01-pasternal-long-axis-view.md" class="btn btn-default">
+  <a href=":pages_path:/manuals/echo/8-06-01-pasternal-long-axis-view.md" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-left"></span>
-    9.6.1 Pasternal Long Axis View
+    8.6.1 Pasternal Long Axis View
   </a>
 
   <a href=":pages_path:/manuals/echo" class="btn btn-default">
@@ -26,8 +26,8 @@
     Echo
   </a>
 
-  <a href=":pages_path:/manuals/echo/9-06-03-apical-4-chamber-view.md" class="btn btn-success">
-    9.6.3 Apical 4-Chamber View
+  <a href=":pages_path:/manuals/echo/8-06-03-apical-4-chamber-view.md" class="btn btn-success">
+    8.6.3 Apical 4-Chamber View
     <span class="glyphicon glyphicon-chevron-right"></span>
   </a>
 </div>
