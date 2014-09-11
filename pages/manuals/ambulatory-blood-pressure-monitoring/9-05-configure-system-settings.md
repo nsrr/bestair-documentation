@@ -1,11 +1,11 @@
-## 10.5 Configure System Settings
+## 9.5 Configure System Settings
 
-### 10.5.1 System Settings
+### 9.5.1 System Settings
 
 1. Start the Client application.
 2. Select **View/Change System Settings** on the Main Menu.
 
-### 10.5.2 Report Form Settings
+### 9.5.2 Report Form Settings
 
 The Report Form tab contains settings for printed reports.
 
@@ -13,7 +13,7 @@ The Report Form tab contains settings for printed reports.
 2. Check **Cover Page**, **Tabular Raw Data**, **Edit Summary**, and **Raw Data Graph**
 3. Select **OK**
 
-### 10.5.3 Statistics Settings
+### 9.5.3 Statistics Settings
 
 The Statistics tab contains settings for data analysis limits.
 
@@ -51,7 +51,7 @@ The Statistics tab contains settings for data analysis limits.
 
 * 7. Select **OK** to save settings.
 
-### 10.5.4 Initializing Settings
+### 9.5.4 Initializing Settings
 
 **The MONITOR TAB contains setting for initializing the ABP monitor.**
 
@@ -91,7 +91,7 @@ The Statistics tab contains settings for data analysis limits.
 
 * 6.  Select **OK** to save settings.
 
-### 10.5.5 Monitor Initialization
+### 9.5.5 Monitor Initialization
 
 * 1. Connect the ABP monitor to the ABP Report Management System using the monitor interface cable.
 * 2. Start the Client application to display the Main Menu.
@@ -129,9 +129,9 @@ The Statistics tab contains settings for data analysis limits.
 
 <div class="center">
 <div class="btn-group">
-  <a href=":pages_path:/manuals/ambulatory-blood-pressure-monitoring/10-04-subject-device-accountability-log.md" class="btn btn-default">
+  <a href=":pages_path:/manuals/ambulatory-blood-pressure-monitoring/9-04-subject-device-accountability-log.md" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-left"></span>
-    10.4 Subject Device Accountability Log
+    9.4 Subject Device Accountability Log
   </a>
 
   <a href=":pages_path:/manuals/ambulatory-blood-pressure-monitoring" class="btn btn-default">
@@ -139,8 +139,8 @@ The Statistics tab contains settings for data analysis limits.
     24-Hour Ambulatory Blood Pressure Monitoring
   </a>
 
-  <a href=":pages_path:/manuals/ambulatory-blood-pressure-monitoring/10-06-cuff-size-determination.md" class="btn btn-success">
-    10.6 Cuff Size Determination
+  <a href=":pages_path:/manuals/ambulatory-blood-pressure-monitoring/9-06-cuff-size-determination.md" class="btn btn-success">
+    9.6 Cuff Size Determination
     <span class="glyphicon glyphicon-chevron-right"></span>
   </a>
 </div>

@@ -1,4 +1,4 @@
-## 10.13 ABPM Data Quality Control
+## 9.13 ABPM Data Quality Control
 
 Consistency of editing of the AMBP records will be addressed by assigning a single trained scorer who is blinded to treatment arm and has the task of editing all AMBP records. Artifacts will be edited and each record will be coded for duration of recording and number of valid and artifact readings (BP Quality Form).
 
@@ -11,9 +11,9 @@ The edited ABP file will be electronically transmitted. Records with values that
 
 <div class="center">
 <div class="btn-group">
-  <a href=":pages_path:/manuals/ambulatory-blood-pressure-monitoring/10-12-reports-reviewing-saving-printing.md" class="btn btn-default">
+  <a href=":pages_path:/manuals/ambulatory-blood-pressure-monitoring/9-12-reports-reviewing-saving-printing.md" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-left"></span>
-    10.12 Reports: Reviewing, Saving, and Printing
+    9.12 Reports: Reviewing, Saving, and Printing
   </a>
 
   <a href=":pages_path:/manuals/ambulatory-blood-pressure-monitoring" class="btn btn-default">
@@ -21,8 +21,8 @@ The edited ABP file will be electronically transmitted. Records with values that
     24-Hour Ambulatory Blood Pressure Monitoring
   </a>
 
-  <a href=":pages_path:/manuals/ambulatory-blood-pressure-monitoring/10-14-qc-bp.md" class="btn btn-success">
-    10.14 Quality Control of Blood Pressure
+  <a href=":pages_path:/manuals/ambulatory-blood-pressure-monitoring/9-14-qc-bp.md" class="btn btn-success">
+    9.14 Quality Control of Blood Pressure
     <span class="glyphicon glyphicon-chevron-right"></span>
   </a>
 </div>

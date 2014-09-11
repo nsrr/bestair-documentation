@@ -1,4 +1,4 @@
-## 10.10 Reviewing the Participant Report
+## 9.10 Reviewing the Participant Report
 
 * 1. Advance through the pages of the final report to the ABP Raw Data Tabular by selecting **Next** 4 times.
 * 2. Look at the participant’s 24 Hour Blood Pressure Journal.
@@ -21,9 +21,9 @@ Daytime napping should be noted separately from sleeping. **<u>It is VERY IMPORT
 
 <div class="center">
 <div class="btn-group">
-  <a href=":pages_path:/manuals/ambulatory-blood-pressure-monitoring/10-09-acquiring-ppt-data.md" class="btn btn-default">
+  <a href=":pages_path:/manuals/ambulatory-blood-pressure-monitoring/9-09-acquiring-ppt-data.md" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-left"></span>
-    10.9 Acquiring Participant Data
+    9.9 Acquiring Participant Data
   </a>
 
   <a href=":pages_path:/manuals/ambulatory-blood-pressure-monitoring" class="btn btn-default">
@@ -31,8 +31,8 @@ Daytime napping should be noted separately from sleeping. **<u>It is VERY IMPORT
     24-Hour Ambulatory Blood Pressure Monitoring
   </a>
 
-  <a href=":pages_path:/manuals/ambulatory-blood-pressure-monitoring/10-11-saving-ppt-files.md" class="btn btn-success">
-    10.11 Saving Participant Files
+  <a href=":pages_path:/manuals/ambulatory-blood-pressure-monitoring/9-11-saving-ppt-files.md" class="btn btn-success">
+    9.11 Saving Participant Files
     <span class="glyphicon glyphicon-chevron-right"></span>
   </a>
 </div>

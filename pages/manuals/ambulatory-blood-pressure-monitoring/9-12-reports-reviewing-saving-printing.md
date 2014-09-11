@@ -1,4 +1,4 @@
-## 10.12 Reports: Reviewing, Saving, and Printing
+## 9.12 Reports: Reviewing, Saving, and Printing
 
 1. Select **Review/Edit Patient Test** from the Main Menu to access the Report Manager.
 2. Select and highlight the Participant ID from the list of all participants
@@ -10,9 +10,9 @@
 
 <div class="center">
 <div class="btn-group">
-  <a href=":pages_path:/manuals/ambulatory-blood-pressure-monitoring/10-11-saving-ppt-files.md" class="btn btn-default">
+  <a href=":pages_path:/manuals/ambulatory-blood-pressure-monitoring/9-11-saving-ppt-files.md" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-left"></span>
-    10.11 Saving Participant Files
+    9.11 Saving Participant Files
   </a>
 
   <a href=":pages_path:/manuals/ambulatory-blood-pressure-monitoring" class="btn btn-default">
@@ -20,8 +20,8 @@
     24-Hour Ambulatory Blood Pressure Monitoring
   </a>
 
-  <a href=":pages_path:/manuals/ambulatory-blood-pressure-monitoring/10-13-abpm-data-qc.md" class="btn btn-success">
-    10.13 ABPM Data Quality Control
+  <a href=":pages_path:/manuals/ambulatory-blood-pressure-monitoring/9-13-abpm-data-qc.md" class="btn btn-success">
+    9.13 ABPM Data Quality Control
     <span class="glyphicon glyphicon-chevron-right"></span>
   </a>
 </div>

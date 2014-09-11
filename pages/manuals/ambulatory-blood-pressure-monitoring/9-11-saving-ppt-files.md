@@ -1,4 +1,4 @@
-## 10.11 Saving Participant Files
+## 9.11 Saving Participant Files
 
 * 1. Create a main folder where your site’s 24 Hour BP files are saved.
 * 2. Make a folder for each participant, naming it: **12345ABCD##**
@@ -25,9 +25,9 @@
 
 <div class="center">
 <div class="btn-group">
-  <a href=":pages_path:/manuals/ambulatory-blood-pressure-monitoring/10-10-reviewing-ppt-data.md" class="btn btn-default">
+  <a href=":pages_path:/manuals/ambulatory-blood-pressure-monitoring/9-10-reviewing-ppt-data.md" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-left"></span>
-    10.10 Reviewing the Participant Report
+    9.10 Reviewing the Participant Report
   </a>
 
   <a href=":pages_path:/manuals/ambulatory-blood-pressure-monitoring" class="btn btn-default">
@@ -35,8 +35,8 @@
     24-Hour Ambulatory Blood Pressure Monitoring
   </a>
 
-  <a href=":pages_path:/manuals/ambulatory-blood-pressure-monitoring/10-12-reports-reviewing-saving-printing.md" class="btn btn-success">
-    10.12 Reports: Reviewing, Saving, and Printing
+  <a href=":pages_path:/manuals/ambulatory-blood-pressure-monitoring/9-12-reports-reviewing-saving-printing.md" class="btn btn-success">
+    9.12 Reports: Reviewing, Saving, and Printing
     <span class="glyphicon glyphicon-chevron-right"></span>
   </a>
 </div>

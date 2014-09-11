@@ -1,4 +1,4 @@
-## 10.9 Acquiring Participant Data
+## 9.9 Acquiring Participant Data
 
 When monitor is returned from participant, it is ready to be uploaded to staff computer at your site.
 
@@ -26,9 +26,9 @@ _Do **<u>not</u>** add events to the **Diary Events** section. Times have to be 
 
 <div class="center">
 <div class="btn-group">
-  <a href=":pages_path:/manuals/ambulatory-blood-pressure-monitoring/10-08-placement-abpm-cuff.md" class="btn btn-default">
+  <a href=":pages_path:/manuals/ambulatory-blood-pressure-monitoring/9-08-placement-abpm-cuff.md" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-left"></span>
-    10.8 Placement of ABPM Cuff
+    9.8 Placement of ABPM Cuff
   </a>
 
   <a href=":pages_path:/manuals/ambulatory-blood-pressure-monitoring" class="btn btn-default">
@@ -36,8 +36,8 @@ _Do **<u>not</u>** add events to the **Diary Events** section. Times have to be 
     24-Hour Ambulatory Blood Pressure Monitoring
   </a>
 
-  <a href=":pages_path:/manuals/ambulatory-blood-pressure-monitoring/10-10-reviewing-ppt-data.md" class="btn btn-success">
-    10.10 Reviewing the Participant Report
+  <a href=":pages_path:/manuals/ambulatory-blood-pressure-monitoring/9-10-reviewing-ppt-data.md" class="btn btn-success">
+    9.10 Reviewing the Participant Report
     <span class="glyphicon glyphicon-chevron-right"></span>
   </a>
 </div>

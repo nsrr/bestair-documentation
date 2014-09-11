@@ -1,4 +1,4 @@
-## 10.3 Equipment
+## 9.3 Equipment
 
 * SpaceLab Monitor Model # 90217
 * Pediatric, Small Adult, Adult, Large Adult, and Extra Large Adult cuffs
@@ -10,9 +10,9 @@
 
 <div class="center">
 <div class="btn-group">
-  <a href=":pages_path:/manuals/ambulatory-blood-pressure-monitoring/10-02-personnel.md" class="btn btn-default">
+  <a href=":pages_path:/manuals/ambulatory-blood-pressure-monitoring/9-02-personnel.md" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-left"></span>
-    10.2 Personnel
+    9.2 Personnel
   </a>
 
   <a href=":pages_path:/manuals/ambulatory-blood-pressure-monitoring" class="btn btn-default">
@@ -20,8 +20,8 @@
     24-Hour Ambulatory Blood Pressure Monitoring
   </a>
 
-  <a href=":pages_path:/manuals/ambulatory-blood-pressure-monitoring/10-04-subject-device-accountability-log.md" class="btn btn-success">
-    10.4 Subject Device Accountability Log
+  <a href=":pages_path:/manuals/ambulatory-blood-pressure-monitoring/9-04-subject-device-accountability-log.md" class="btn btn-success">
+    9.4 Subject Device Accountability Log
     <span class="glyphicon glyphicon-chevron-right"></span>
   </a>
 </div>

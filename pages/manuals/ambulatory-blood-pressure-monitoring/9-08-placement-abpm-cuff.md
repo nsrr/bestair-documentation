@@ -1,4 +1,4 @@
-## 10.8 Placement of ABPM Cuff
+## 9.8 Placement of ABPM Cuff
 
 1. The patient should be standing for research staff to measure and place the cuff.
 2. Ask the patient whether he/she is a righty or a lefty.  If a righty, ask him/her to outstretch his/her left arm with palm facing up. If lefty, the right arm.  Ask the patient if he/she has any problems with taking the blood pressure on that arm. (If a patient has had a mastectomy, surgery, or injury on that side, it is preferable to use the other side.) Measure circumference of participant’s upper arm at the midpoint of the arm for cuff size determination. The monitor should go on the side of the body that is opposite to the arm where the cuff is placed.
@@ -20,9 +20,9 @@
 
 <div class="center">
 <div class="btn-group">
-  <a href=":pages_path:/manuals/ambulatory-blood-pressure-monitoring/10-07-calibration.md" class="btn btn-default">
+  <a href=":pages_path:/manuals/ambulatory-blood-pressure-monitoring/9-07-calibration.md" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-left"></span>
-    10.7 Calibration
+    9.7 Calibration
   </a>
 
   <a href=":pages_path:/manuals/ambulatory-blood-pressure-monitoring" class="btn btn-default">
@@ -30,8 +30,8 @@
     24-Hour Ambulatory Blood Pressure Monitoring
   </a>
 
-  <a href=":pages_path:/manuals/ambulatory-blood-pressure-monitoring/10-09-acquiring-ppt-data.md" class="btn btn-success">
-    10.9 Acquiring Participant Data
+  <a href=":pages_path:/manuals/ambulatory-blood-pressure-monitoring/9-09-acquiring-ppt-data.md" class="btn btn-success">
+    9.9 Acquiring Participant Data
     <span class="glyphicon glyphicon-chevron-right"></span>
   </a>
 </div>

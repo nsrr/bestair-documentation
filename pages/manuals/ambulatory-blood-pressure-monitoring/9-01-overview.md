@@ -1,4 +1,4 @@
-## 10.1 Overview
+## 9.1 Overview
 
 
 24 hour BP provides the ability to detect people whose blood pressure rises or does not fall during sleep as would be normally expected. (These individuals are called “non-dippers.”) Repeated BP over the course of the day and night also may provide a more reliable measure of BP than from one or two readings made during the day.
@@ -19,7 +19,7 @@ The following parameters will be compared between groups:
 
 <div class="center">
 <div class="btn-group">
-  <a href=":pages_path:/manuals/ambulatory-blood-pressure-monitoring/10-00-ambulatory-blood-pressure-monitoring-toc.md" class="btn btn-default">
+  <a href=":pages_path:/manuals/ambulatory-blood-pressure-monitoring/9-00-ambulatory-blood-pressure-monitoring-toc.md" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-left"></span>
     Table of Contents
   </a>
@@ -29,8 +29,8 @@ The following parameters will be compared between groups:
     24-Hour Ambulatory Blood Pressure Monitoring
   </a>
 
-  <a href=":pages_path:/manuals/ambulatory-blood-pressure-monitoring/10-02-personnel.md" class="btn btn-success">
-    10.2 Personnel
+  <a href=":pages_path:/manuals/ambulatory-blood-pressure-monitoring/9-02-personnel.md" class="btn btn-success">
+    9.2 Personnel
     <span class="glyphicon glyphicon-chevron-right"></span>
   </a>
 </div>
