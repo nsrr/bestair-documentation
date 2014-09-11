@@ -1,4 +1,4 @@
-## 6.6 Urine Pre-Processing Procedure (CCI Nurse)
+## 5.6 Urine Pre-Processing Procedure (CCI Nurse)
 
 1. Obtain and prepare the LabCorp Requisition Form, label, and barcode on the day of admission.
 2. Fill out LabCorp Requisition Form:
@@ -21,9 +21,9 @@
 
 <div class="center">
 <div class="btn-group">
-  <a href=":pages_path:/manuals/urine-collection-processing/6-05-urine-collection-procedure.md" class="btn btn-default">
+  <a href=":pages_path:/manuals/urine-collection-processing/5-05-urine-collection-procedure.md" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-left"></span>
-    6.5 Urine Collection Procedure (Study Staff or CCI Nurse)
+    5.5 Urine Collection Procedure (Study Staff or CCI Nurse)
   </a>
 
   <a href=":pages_path:/manuals/urine-collection-processing" class="btn btn-default">
@@ -31,8 +31,8 @@
     Urine Collection and Processing
   </a>
 
-  <a href=":pages_path:/manuals/urine-collection-processing/6-07-urine-processing-procedure.md" class="btn btn-default">
-    6.7 Urine Processing Procedure (Processing Technician)
+  <a href=":pages_path:/manuals/urine-collection-processing/5-07-urine-processing-procedure.md" class="btn btn-default">
+    5.7 Urine Processing Procedure (Processing Technician)
     <span class="glyphicon glyphicon-chevron-right"></span>
   </a>
 </div>

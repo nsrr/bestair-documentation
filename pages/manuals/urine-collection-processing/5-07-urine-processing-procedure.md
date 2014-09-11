@@ -1,4 +1,4 @@
-## 6.7 Urine Processing Procedure (Processing Technician)
+## 5.7 Urine Processing Procedure (Processing Technician)
 
 | **Test** | **Amount to Aliquot** | **Aliquot Container** | **Special Container** |
 |:--------:|:---------------------:|:---------------------:|:---------------------:|
@@ -20,9 +20,9 @@
 
 <div class="center">
 <div class="btn-group">
-  <a href=":pages_path:/manuals/urine-collection-processing/6-06-urine-preprocessing-procedure.md" class="btn btn-default">
+  <a href=":pages_path:/manuals/urine-collection-processing/5-06-urine-preprocessing-procedure.md" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-left"></span>
-    6.6 Urine Pre-Processing Procedure (CCI Nurse)
+    5.6 Urine Pre-Processing Procedure (CCI Nurse)
   </a>
 
   <a href=":pages_path:/manuals/urine-collection-processing" class="btn btn-default">
