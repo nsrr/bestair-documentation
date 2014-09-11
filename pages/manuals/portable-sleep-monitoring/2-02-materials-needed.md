@@ -1,4 +1,4 @@
-## 3.2 Materials Needed
+## 2.2 Materials Needed
 
 * Embletta Type III Sleep Monitor
 * Thoracic and Abdominal Belts
@@ -10,9 +10,9 @@
 
 <div class="center">
 <div class="btn-group">
-  <a href=":pages_path:/manuals/portable-sleep-monitoring/3-01-overview.md" class="btn btn-default">
+  <a href=":pages_path:/manuals/portable-sleep-monitoring/2-01-overview.md" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-left"></span>
-    3.1 Overview
+    2.1 Overview
   </a>
 
   <a href=":pages_path:/manuals/portable-sleep-monitoring" class="btn btn-default">
@@ -20,8 +20,8 @@
     Portable Sleep Monitoring
   </a>
 
-  <a href=":pages_path:/manuals/portable-sleep-monitoring/3-03-preparing-study.md" class="btn btn-success">
-    3.3 Preparing a Study
+  <a href=":pages_path:/manuals/portable-sleep-monitoring/2-03-preparing-study.md" class="btn btn-success">
+    2.3 Preparing a Study
     <span class="glyphicon glyphicon-chevron-right"></span>
   </a>
 </div>

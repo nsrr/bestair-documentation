@@ -1,4 +1,4 @@
-## 3.7 Unpacking, Cleaning, and Disinfecting
+## 2.7 Unpacking, Cleaning, and Disinfecting
 
 1. Open the package containing the monitor and accompanying paperwork.
 2. Remove the paperwork and set aside from the surface protector.
@@ -16,9 +16,9 @@
 
 <div class="center">
 <div class="btn-group">
-  <a href=":pages_path:/manuals/portable-sleep-monitoring/3-06-preparing-study.md" class="btn btn-default">
+  <a href=":pages_path:/manuals/portable-sleep-monitoring/2-06-preparing-study.md" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-left"></span>
-    3.6 Subject Instruction
+    2.6 Subject Instruction
   </a>
 
   <a href=":pages_path:/manuals/portable-sleep-monitoring" class="btn btn-default">
@@ -26,8 +26,8 @@
     Portable Sleep Monitoring
   </a>
 
-  <a href=":pages_path:/manuals/portable-sleep-monitoring/3-08-00-data-processing.md" class="btn btn-success">
-    3.8 Data Processing
+  <a href=":pages_path:/manuals/portable-sleep-monitoring/2-08-00-data-processing.md" class="btn btn-success">
+    2.8 Data Processing
     <span class="glyphicon glyphicon-chevron-right"></span>
   </a>
 </div>

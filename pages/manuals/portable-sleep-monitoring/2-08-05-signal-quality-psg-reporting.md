@@ -1,4 +1,4 @@
-## 3.8.5 Signal Quality and PSG Reporting
+## 2.8.5 Signal Quality and PSG Reporting
 
 Upon completed scoring an Embletta QS Form is filled out.  This form tracks the following:
 
@@ -34,9 +34,9 @@ Upon completed scoring an Embletta QS Form is filled out.  This form tracks the 
 
 <div class="center">
 <div class="btn-group">
-  <a href=":pages_path:/manuals/portable-sleep-monitoring/3-08-04-scoring-desat-events.md" class="btn btn-default">
+  <a href=":pages_path:/manuals/portable-sleep-monitoring/2-08-04-scoring-desat-events.md" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-left"></span>
-    3.8.4 Scoring Desaturation Events
+    2.8.4 Scoring Desaturation Events
   </a>
 
   <a href=":pages_path:/manuals/portable-sleep-monitoring" class="btn btn-default">
@@ -44,8 +44,8 @@ Upon completed scoring an Embletta QS Form is filled out.  This form tracks the 
     Portable Sleep Monitoring
   </a>
 
-  <a href=":pages_path:/manuals/portable-sleep-monitoring/3-08-06-urgent-alerts.md" class="btn btn-success">
-    3.8.6 Urgent Alerts
+  <a href=":pages_path:/manuals/portable-sleep-monitoring/2-08-06-urgent-alerts.md" class="btn btn-success">
+    2.8.6 Urgent Alerts
     <span class="glyphicon glyphicon-chevron-right"></span>
   </a>
 </div>

@@ -1,4 +1,4 @@
-## 3.8.1 Scoring Lights and Sleep/Wake Periods
+## 2.8.1 Scoring Lights and Sleep/Wake Periods
 
 **<u>Lights OFF</u>** is based on the participant’s self-reported time to bed.  When this information is absent or occurs after clear sleep onset Lights OFF is set at Sleep Onset.
 
@@ -15,9 +15,9 @@
 
 <div class="center">
 <div class="btn-group">
-  <a href=":pages_path:/manuals/portable-sleep-monitoring/3-08-00-data-processing.md" class="btn btn-default">
+  <a href=":pages_path:/manuals/portable-sleep-monitoring/2-08-00-data-processing.md" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-left"></span>
-    3.8 Data Processing
+    2.8 Data Processing
   </a>
 
   <a href=":pages_path:/manuals/portable-sleep-monitoring" class="btn btn-default">
@@ -25,8 +25,8 @@
     Portable Sleep Monitoring
   </a>
 
-  <a href=":pages_path:/manuals/portable-sleep-monitoring/3-08-02-scoring-respiratory-events.md" class="btn btn-success">
-    3.8.2 Scoring Respiratory Events
+  <a href=":pages_path:/manuals/portable-sleep-monitoring/2-08-02-scoring-respiratory-events.md" class="btn btn-success">
+    2.8.2 Scoring Respiratory Events
     <span class="glyphicon glyphicon-chevron-right"></span>
   </a>
 </div>

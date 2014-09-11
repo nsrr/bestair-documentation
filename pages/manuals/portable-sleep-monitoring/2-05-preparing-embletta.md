@@ -1,4 +1,4 @@
-## 3.5 Preparing the Embletta for Home Recording
+## 2.5 Preparing the Embletta for Home Recording
 
 * 1. Place the Embletta into the leather holster.
 * 2. Attach the soft pad to the back of the Embletta.
@@ -24,9 +24,9 @@
 
 <div class="center">
 <div class="btn-group">
-  <a href=":pages_path:/manuals/portable-sleep-monitoring/3-04-preparing-recorder.md" class="btn btn-default">
+  <a href=":pages_path:/manuals/portable-sleep-monitoring/2-04-preparing-recorder.md" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-left"></span>
-    3.4 Preparing the Recorder
+    2.4 Preparing the Recorder
   </a>
 
   <a href=":pages_path:/manuals/portable-sleep-monitoring" class="btn btn-default">
@@ -34,8 +34,8 @@
     Portable Sleep Monitoring
   </a>
 
-  <a href=":pages_path:/manuals/portable-sleep-monitoring/3-06-preparing-study.md" class="btn btn-success">
-    3.6 Subject Instruction
+  <a href=":pages_path:/manuals/portable-sleep-monitoring/2-06-preparing-study.md" class="btn btn-success">
+    2.6 Subject Instruction
     <span class="glyphicon glyphicon-chevron-right"></span>
   </a>
 </div>

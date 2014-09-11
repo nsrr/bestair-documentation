@@ -1,4 +1,4 @@
-## 3.4 Preparing the Recorder
+## 2.4 Preparing the Recorder
 
 The Embletta consists of the following external and internal sensors: Respiratory Effort sensor, Nasal Cannula/Pressure sensor, Oximeter, Thermistor, Body Position, and EKG electrodes.
 
@@ -36,9 +36,9 @@ The Embletta consists of the following external and internal sensors: Respirator
 
 <div class="center">
 <div class="btn-group">
-  <a href=":pages_path:/manuals/portable-sleep-monitoring/3-03-preparing-study.md" class="btn btn-default">
+  <a href=":pages_path:/manuals/portable-sleep-monitoring/2-03-preparing-study.md" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-left"></span>
-    3.3 Preparing a Study
+    2.3 Preparing a Study
   </a>
 
   <a href=":pages_path:/manuals/portable-sleep-monitoring" class="btn btn-default">
@@ -46,8 +46,8 @@ The Embletta consists of the following external and internal sensors: Respirator
     Portable Sleep Monitoring
   </a>
 
-  <a href=":pages_path:/manuals/portable-sleep-monitoring/3-05-preparing-embletta.md" class="btn btn-success">
-    3.5 Preparing the Embletta for Home Recording
+  <a href=":pages_path:/manuals/portable-sleep-monitoring/2-05-preparing-embletta.md" class="btn btn-success">
+    2.5 Preparing the Embletta for Home Recording
     <span class="glyphicon glyphicon-chevron-right"></span>
   </a>
 </div>

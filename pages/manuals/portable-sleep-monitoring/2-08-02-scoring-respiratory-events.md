@@ -1,4 +1,4 @@
-## 3.8.2 Scoring Respiratory Events
+## 2.8.2 Scoring Respiratory Events
 
 Once Lights ON/OFF, Sleep Onset/Offset, Sleep Periods, and Wake Periods have been marked, automatic analysis can be run.  Profusion’s automatic analysis is setup to run and mark SpO2 desaturations, respiratory events and create an offline summary.  After automatic analysis manual scoring is started at Lights OUT.  The scorer will identify the following categories of discrete breathing events: obstructive apneas, central apneas and AASM Recommended and AASM Alternative Hypopneas.
 
@@ -19,9 +19,9 @@ The primary signal for scoring respiratory events is Nasal Pressure. If Nasal Pr
 
 <div class="center">
 <div class="btn-group">
-  <a href=":pages_path:/manuals/portable-sleep-monitoring/3-08-01-scoring-lights-sleep-wake.md" class="btn btn-default">
+  <a href=":pages_path:/manuals/portable-sleep-monitoring/2-08-01-scoring-lights-sleep-wake.md" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-left"></span>
-    3.8.1 Scoring Lights and Sleep/Wake Periods
+    2.8.1 Scoring Lights and Sleep/Wake Periods
   </a>
 
   <a href=":pages_path:/manuals/portable-sleep-monitoring" class="btn btn-default">
@@ -29,8 +29,8 @@ The primary signal for scoring respiratory events is Nasal Pressure. If Nasal Pr
     Portable Sleep Monitoring
   </a>
 
-  <a href=":pages_path:/manuals/portable-sleep-monitoring/3-08-03-scoring-ecg.md" class="btn btn-success">
-    3.8.3 Scoring ECG
+  <a href=":pages_path:/manuals/portable-sleep-monitoring/2-08-03-scoring-ecg.md" class="btn btn-success">
+    2.8.3 Scoring ECG
     <span class="glyphicon glyphicon-chevron-right"></span>
   </a>
 </div>

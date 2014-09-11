@@ -1,4 +1,4 @@
-## 3.3 Preparing a Study
+## 2.3 Preparing a Study
 
 1. Open <u>Somnologica Studio 5</u> for Embletta.
 2. Select **Patient Information** on the Operations Sheet.
@@ -8,9 +8,9 @@
 
 <div class="center">
 <div class="btn-group">
-  <a href=":pages_path:/manuals/portable-sleep-monitoring/3-02-materials-needed.md" class="btn btn-default">
+  <a href=":pages_path:/manuals/portable-sleep-monitoring/2-02-materials-needed.md" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-left"></span>
-    3.2 Materials Needed
+    2.2 Materials Needed
   </a>
 
   <a href=":pages_path:/manuals/portable-sleep-monitoring" class="btn btn-default">
@@ -18,8 +18,8 @@
     Portable Sleep Monitoring
   </a>
 
-  <a href=":pages_path:/manuals/portable-sleep-monitoring/3-04-preparing-recorder.md" class="btn btn-success">
-    3.4 Preparing the Recorder
+  <a href=":pages_path:/manuals/portable-sleep-monitoring/2-04-preparing-recorder.md" class="btn btn-success">
+    2.4 Preparing the Recorder
     <span class="glyphicon glyphicon-chevron-right"></span>
   </a>
 </div>
