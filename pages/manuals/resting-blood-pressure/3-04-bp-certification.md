@@ -1,4 +1,4 @@
-## 4.4 Blood Pressure Certification
+## 3.4 Blood Pressure Certification
 
 All BestAIR personnel performing BP measurements on BestAIR participants must be certified in performing BP according to the BestAIR BP protocol.
 
@@ -18,9 +18,9 @@ The certifying individual may be:
 
 <div class="center">
 <div class="btn-group">
-  <a href=":pages_path:/manuals/resting-blood-pressure/4-03-equipment-needed.md" class="btn btn-default">
+  <a href=":pages_path:/manuals/resting-blood-pressure/3-03-equipment-needed.md" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-left"></span>
-    4.3 Equipment Needed
+    3.3 Equipment Needed
   </a>
 
   <a href=":pages_path:/manuals/resting-blood-pressure" class="btn btn-default">
@@ -28,8 +28,8 @@ The certifying individual may be:
     Resting Blood Pressure
   </a>
 
-  <a href=":pages_path:/manuals/resting-blood-pressure/4-05-arm-measurement.md" class="btn btn-success">
-    4.5 Arm Measurement
+  <a href=":pages_path:/manuals/resting-blood-pressure/3-05-arm-measurement.md" class="btn btn-success">
+    3.5 Arm Measurement
     <span class="glyphicon glyphicon-chevron-right"></span>
   </a>
 </div>

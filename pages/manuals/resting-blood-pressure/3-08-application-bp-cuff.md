@@ -1,4 +1,4 @@
-## 4.8 Application of the Blood Pressure Cuff
+## 3.8 Application of the Blood Pressure Cuff
 
 * 1. Place the appropriate cuff (as determined in the arm measurement procedure) around the bare non-dominant arm. (May have to use other arm if surgery or injury to non-dominant arm.)
 
@@ -11,9 +11,9 @@
 
 <div class="center">
 <div class="btn-group">
-  <a href=":pages_path:/manuals/resting-blood-pressure/4-07-pulse-measurement.md" class="btn btn-default">
+  <a href=":pages_path:/manuals/resting-blood-pressure/3-07-pulse-measurement.md" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-left"></span>
-    4.7 Pulse Measurement
+    3.7 Pulse Measurement
   </a>
 
   <a href=":pages_path:/manuals/resting-blood-pressure" class="btn btn-default">
@@ -21,8 +21,8 @@
     Resting Blood Pressure
   </a>
 
-  <a href=":pages_path:/manuals/resting-blood-pressure/4-09-procedure.md" class="btn btn-success">
-    4.9 Procedure
+  <a href=":pages_path:/manuals/resting-blood-pressure/3-09-procedure.md" class="btn btn-success">
+    3.9 Procedure
     <span class="glyphicon glyphicon-chevron-right"></span>
   </a>
 </div>

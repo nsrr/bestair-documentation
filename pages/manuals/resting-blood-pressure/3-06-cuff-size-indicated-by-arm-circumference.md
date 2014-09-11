@@ -1,4 +1,4 @@
-## 4.6 Cuff Size Indicated by Measured Arm Circumference
+## 3.6 Cuff Size Indicated by Measured Arm Circumference
 
 | ARM CIRCUMFERENCE (cm) | CUFF SIZE (cm)*    |
 |:----------------------:|:------------------:|
@@ -11,9 +11,9 @@ _*Bladder widths shown are at least 40% of the largest corresponding arm circumf
 
 <div class="center">
 <div class="btn-group">
-  <a href=":pages_path:/manuals/resting-blood-pressure/4-05-arm-measurement.md" class="btn btn-default">
+  <a href=":pages_path:/manuals/resting-blood-pressure/3-05-arm-measurement.md" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-left"></span>
-    4.5 Arm Measurement
+    3.5 Arm Measurement
   </a>
 
   <a href=":pages_path:/manuals/resting-blood-pressure" class="btn btn-default">
@@ -21,8 +21,8 @@ _*Bladder widths shown are at least 40% of the largest corresponding arm circumf
     Resting Blood Pressure
   </a>
 
-  <a href=":pages_path:/manuals/resting-blood-pressure/4-07-pulse-measurement.md" class="btn btn-success">
-    4.7 Pulse Measurement
+  <a href=":pages_path:/manuals/resting-blood-pressure/3-07-pulse-measurement.md" class="btn btn-success">
+    3.7 Pulse Measurement
     <span class="glyphicon glyphicon-chevron-right"></span>
   </a>
 </div>

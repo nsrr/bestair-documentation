@@ -1,13 +1,13 @@
-## 4.7 Pulse Measurement
+## 3.7 Pulse Measurement
 
 The measurement of pulse and BP is performed only after the participant has been sitting for at least 5 minutes.
 
 
 <div class="center">
 <div class="btn-group">
-  <a href=":pages_path:/manuals/resting-blood-pressure/4-06-cuff-size-indicated-by-arm-circumference.md" class="btn btn-default">
+  <a href=":pages_path:/manuals/resting-blood-pressure/3-06-cuff-size-indicated-by-arm-circumference.md" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-left"></span>
-    4.6 Cuff Size Indicated by Measured Arm Circumference
+    3.6 Cuff Size Indicated by Measured Arm Circumference
   </a>
 
   <a href=":pages_path:/manuals/resting-blood-pressure" class="btn btn-default">
@@ -15,8 +15,8 @@ The measurement of pulse and BP is performed only after the participant has been
     Resting Blood Pressure
   </a>
 
-  <a href=":pages_path:/manuals/resting-blood-pressure/4-08-application-bp-cuff.md" class="btn btn-success">
-    4.8 Application of the Blood Pressure Cuff
+  <a href=":pages_path:/manuals/resting-blood-pressure/3-08-application-bp-cuff.md" class="btn btn-success">
+    3.8 Application of the Blood Pressure Cuff
     <span class="glyphicon glyphicon-chevron-right"></span>
   </a>
 </div>

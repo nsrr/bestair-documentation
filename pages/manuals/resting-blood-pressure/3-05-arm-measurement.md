@@ -1,4 +1,4 @@
-## 4.5 Arm Measurement
+## 3.5 Arm Measurement
 
 The proper cuff size must be used to avoid under or over-estimating the correct BP. To determine the proper cuff size, the observer must measure the arm circumference at the midpoint of the arm. This measurement is taken on the non-dominant arm that has been bared from the shoulder.
 
@@ -17,9 +17,9 @@ The proper cuff size must be used to avoid under or over-estimating the correct 
 
 <div class="center">
 <div class="btn-group">
-  <a href=":pages_path:/manuals/resting-blood-pressure/4-04-bp-certification.md" class="btn btn-default">
+  <a href=":pages_path:/manuals/resting-blood-pressure/3-04-bp-certification.md" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-left"></span>
-    4.4 Blood Pressure Certification
+    3.4 Blood Pressure Certification
   </a>
 
   <a href=":pages_path:/manuals/resting-blood-pressure" class="btn btn-default">
@@ -27,8 +27,8 @@ The proper cuff size must be used to avoid under or over-estimating the correct 
     Resting Blood Pressure
   </a>
 
-  <a href=":pages_path:/manuals/resting-blood-pressure/4-06-cuff-size-indicated-by-arm-circumference.md" class="btn btn-success">
-    4.6 Cuff Size Indicated by Measured Arm Circumference
+  <a href=":pages_path:/manuals/resting-blood-pressure/3-06-cuff-size-indicated-by-arm-circumference.md" class="btn btn-success">
+    3.6 Cuff Size Indicated by Measured Arm Circumference
     <span class="glyphicon glyphicon-chevron-right"></span>
   </a>
 </div>

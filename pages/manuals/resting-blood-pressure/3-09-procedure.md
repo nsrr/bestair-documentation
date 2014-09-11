@@ -1,4 +1,4 @@
-## 4.9 Procedure
+## 3.9 Procedure
 
 1. Plug in the Dinamap.
 2. Press the On/Off button.
@@ -19,9 +19,9 @@
 
 <div class="center">
 <div class="btn-group">
-  <a href=":pages_path:/manuals/resting-blood-pressure/4-08-application-bp-cuff.md" class="btn btn-default">
+  <a href=":pages_path:/manuals/resting-blood-pressure/3-08-application-bp-cuff.md" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-left"></span>
-    4.8 Application of the Blood Pressure Cuff
+    3.8 Application of the Blood Pressure Cuff
   </a>
 
   <a href=":pages_path:/manuals/resting-blood-pressure" class="btn btn-default">
@@ -29,8 +29,8 @@
     Resting Blood Pressure
   </a>
 
-  <a href=":pages_path:/manuals/resting-blood-pressure/4-10-maintenance-bp-equipment.md" class="btn btn-success">
-    4.10 Maintenance of Blood Pressure Equipment
+  <a href=":pages_path:/manuals/resting-blood-pressure/3-10-maintenance-bp-equipment.md" class="btn btn-success">
+    3.10 Maintenance of Blood Pressure Equipment
     <span class="glyphicon glyphicon-chevron-right"></span>
   </a>
 </div>
