@@ -1,4 +1,4 @@
-## 12.6 Initial Setup Visits with Respiratory Therapist
+## 11.6 Initial Setup Visits with Respiratory Therapist
 
 Note that patients will be randomized to receive study equipment which will be either a Philips Respironics or ResMed S9 device used in the CPAP mode. For sham, each device is set up with masks, machine/machine settings and elbow configurations as noted above.
 
@@ -16,9 +16,9 @@ Note that patients will be randomized to receive study equipment which will be e
 
 <div class="center">
 <div class="btn-group">
-  <a href=":pages_path:/manuals/respiratory-therapist-guidelines/12-05-schedule-RT-appts.md" class="btn btn-default">
+  <a href=":pages_path:/manuals/respiratory-therapist-guidelines/11-05-schedule-RT-appts.md" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-left"></span>
-    12.5 Schedule of RT Appointments
+    11.5 Schedule of RT Appointments
   </a>
 
   <a href=":pages_path:/manuals/respiratory-therapist-guidelines" class="btn btn-default">
@@ -26,8 +26,8 @@ Note that patients will be randomized to receive study equipment which will be e
     Respiratory Therapist Guidelines
   </a>
 
-  <a href=":pages_path:/manuals/respiratory-therapist-guidelines/12-07-1-wk-fu-rt.md" class="btn btn-success">
-    12.7 1-Week Follow-Up Respiratory Therapist Visit
+  <a href=":pages_path:/manuals/respiratory-therapist-guidelines/11-07-1-wk-fu-rt.md" class="btn btn-success">
+    11.7 1-Week Follow-Up Respiratory Therapist Visit
     <span class="glyphicon glyphicon-chevron-right"></span>
   </a>
 </div>

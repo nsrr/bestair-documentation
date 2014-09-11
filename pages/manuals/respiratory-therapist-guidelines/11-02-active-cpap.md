@@ -1,4 +1,4 @@
-## 12.2 Active CPAP
+## 11.2 Active CPAP
 
 A study ResMed S9 AutoPAP or Respironics machine (Philips System One) with heated humidifiers will be provided (chosen by randomization scheme). Serial numbers will be recorded on the Prescription CRF page.  Ramp and EPR will be set.
 
@@ -13,9 +13,9 @@ A study ResMed S9 AutoPAP or Respironics machine (Philips System One) with heate
 
 <div class="center">
 <div class="btn-group">
-  <a href=":pages_path:/manuals/respiratory-therapist-guidelines/12-01-equipment.md" class="btn btn-default">
+  <a href=":pages_path:/manuals/respiratory-therapist-guidelines/11-01-equipment.md" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-left"></span>
-    12.1 Equipment
+    11.1 Equipment
   </a>
 
   <a href=":pages_path:/manuals/respiratory-therapist-guidelines" class="btn btn-default">
@@ -23,8 +23,8 @@ A study ResMed S9 AutoPAP or Respironics machine (Philips System One) with heate
     Respiratory Therapist Guidelines
   </a>
 
-  <a href=":pages_path:/manuals/respiratory-therapist-guidelines/12-03-sham-cpap.md" class="btn btn-success">
-    12.3 Sham CPAP
+  <a href=":pages_path:/manuals/respiratory-therapist-guidelines/11-03-sham-cpap.md" class="btn btn-success">
+    11.3 Sham CPAP
     <span class="glyphicon glyphicon-chevron-right"></span>
   </a>
 </div>

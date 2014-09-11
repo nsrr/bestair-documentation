@@ -1,4 +1,4 @@
-## 12.7 1-Week Follow-Up Respiratory Therapist Visit
+## 11.7 1-Week Follow-Up Respiratory Therapist Visit
 
 * 1. Review Adherence data by downloading the card locally and provide feedback based on adherence data.  **Do no download PAP adherence for participants randomized to a SHAM machine.**
 * 2. Reinforce PAP use
@@ -13,9 +13,9 @@
 
 <div class="center">
 <div class="btn-group">
-  <a href=":pages_path:/manuals/respiratory-therapist-guidelines/12-06-initial-setup-rt.md" class="btn btn-default">
+  <a href=":pages_path:/manuals/respiratory-therapist-guidelines/11-06-initial-setup-rt.md" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-left"></span>
-    12.6 Initial Setup Visits with Respiratory Therapist
+    11.6 Initial Setup Visits with Respiratory Therapist
   </a>
 
   <a href=":pages_path:/manuals/respiratory-therapist-guidelines" class="btn btn-default">
@@ -23,8 +23,8 @@
     Respiratory Therapist Guidelines
   </a>
 
-  <a href=":pages_path:/manuals/respiratory-therapist-guidelines/12-08-all-other-fu-rt.md" class="btn btn-success">
-    12.8 All Other Follow-up Respiratory Therapist Visits (1M, 3M, 6M, and 9M)
+  <a href=":pages_path:/manuals/respiratory-therapist-guidelines/11-08-all-other-fu-rt.md" class="btn btn-success">
+    11.8 All Other Follow-up Respiratory Therapist Visits (1M, 3M, 6M, and 9M)
     <span class="glyphicon glyphicon-chevron-right"></span>
   </a>
 </div>
