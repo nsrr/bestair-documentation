@@ -1,4 +1,4 @@
-## 11.2 Diabetic Patient Considerations
+## 10.2 Diabetic Patient Considerations
 
 Study staff needs to be extra vigilant with participants who are diabetic.
 
@@ -8,7 +8,7 @@ Please communicate with the participant before the visit, that if they are feeli
 
 Also, ask the participant to notify staff if they need to eat a snack or drink during the visit testing. Safety of our participants is of utmost importance and we want to be particularly cautious with diabetics when we know fasting can cause problems. If the participant needs to have a snack or drink, staff can document and let the data coordinating center know for data tracking purposes.
 
-### 11.2.1 Diabetes Medication
+### 10.2.1 Diabetes Medication
 
 **<u>Injectable Insulin</u>**
 
@@ -43,9 +43,9 @@ Also, ask the participant to notify staff if they need to eat a snack or drink d
 
 <div class="center">
 <div class="btn-group">
-  <a href=":pages_path:/manuals/medications/11-01-overview.md" class="btn btn-default">
+  <a href=":pages_path:/manuals/medications/10-01-overview.md" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-left"></span>
-    11.1 Overview
+    10.1 Overview
   </a>
 
   <a href=":pages_path:/manuals/medications" class="btn btn-default">

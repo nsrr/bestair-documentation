@@ -1,4 +1,4 @@
-## 11.1 Overview
+## 10.1 Overview
 
 Prior to all study visits, inform participants to continue taking all medicines they are currently on (especially blood pressure medicines) EXCEPT instruct them to withhold diabetes medicines. Diabetes medicines should be held until after the fasting blood draw, but should be brought along to the visit and taken as soon as the blood draw is completed.
 
@@ -13,7 +13,7 @@ Below is a list of diabetes medicines participants should withhold. (Always cons
 
 <div class="center">
 <div class="btn-group">
-  <a href=":pages_path:/manuals/medications/11-00-medications-toc.md" class="btn btn-default">
+  <a href=":pages_path:/manuals/medications/10-00-medications-toc.md" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-left"></span>
     Table of Contents
   </a>
@@ -23,8 +23,8 @@ Below is a list of diabetes medicines participants should withhold. (Always cons
     Medications at Study Visits
   </a>
 
-  <a href=":pages_path:/manuals/medications/11-02-diabetic-patients.md" class="btn btn-success">
-    11.2 Diabetic Patient Considerations
+  <a href=":pages_path:/manuals/medications/10-02-diabetic-patients.md" class="btn btn-success">
+    10.2 Diabetic Patient Considerations
     <span class="glyphicon glyphicon-chevron-right"></span>
   </a>
 </div>
