@@ -1,4 +1,4 @@
-## 7.5.3 Guidelines for Difficulties
+## 6.5.3 Guidelines for Difficulties
 
 * 1. **Handling participants who are extremely apprehensive about having blood drawn:**  <u>Do not under any circumstances force the participant to have blood drawn.</u>  It may help to explain to the participant that the blood drawing is designed to be as nearly painless as possible.  It may be helpful to have the participant relax in the bed just so the phlebotomist can check the veins in the participant's arms, without actually drawing blood.  If the participant has "good veins" the phlebotomist can reassuringly say, "Oh, you have good veins; there should be no problem."
 * 2. **Bandaging the Arm:**  If the patient continues to bleed apply pressure to the site with a gauze pad.  Keep the arm elevated and straight until the bleeding stops.  A gauze bandage can be tightly wrapped around the arm over the pad, and left on for at least 15 minutes.
@@ -26,9 +26,9 @@
 
 <div class="center">
 <div class="btn-group">
-  <a href=":pages_path:/manuals/blood-collection-processing/7-05-02-venipuncture-procedure.md" class="btn btn-default">
+  <a href=":pages_path:/manuals/blood-collection-processing/6-05-02-venipuncture-procedure.md" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-left"></span>
-    7.5.2 Venipuncture Procedure
+    6.5.2 Venipuncture Procedure
   </a>
 
   <a href=":pages_path:/manuals/blood-collection-processing" class="btn btn-default">
@@ -36,8 +36,8 @@
     Blood Collection and Processing
   </a>
 
-  <a href=":pages_path:/manuals/blood-collection-processing/7-06-01-overview.md" class="btn btn-success">
-    7.6 Blood Processing
+  <a href=":pages_path:/manuals/blood-collection-processing/6-06-01-overview.md" class="btn btn-success">
+    6.6 Blood Processing
     <span class="glyphicon glyphicon-chevron-right"></span>
   </a>
 </div>

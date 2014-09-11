@@ -1,4 +1,4 @@
-## 7.1 Background and Rationale
+## 6.1 Background and Rationale
 
 The purpose of the study is to evaluate alternative approaches for reducing heart disease risk in patients with sleep apnea.  Study outcomes include assays of inflammation, coagulation, dyslipidemia, glucose metabolism and heart function.
 
@@ -11,7 +11,7 @@ This study involves the collection of 40 ml of blood from participants during a 
 
 <div class="center">
 <div class="btn-group">
-  <a href=":pages_path:/manuals/blood-collection-processing/7-00-blood-collection-processing-toc" class="btn btn-default">
+  <a href=":pages_path:/manuals/blood-collection-processing/6-00-blood-collection-processing-toc" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-left"></span>
     Table of Contents
   </a>
@@ -21,8 +21,8 @@ This study involves the collection of 40 ml of blood from participants during a 
     Blood Collection and Processing
   </a>
 
-  <a href=":pages_path:/manuals/blood-collection-processing/7-02-equipment-supplies.md" class="btn btn-success">
-    7.2 Equipment and Supplies
+  <a href=":pages_path:/manuals/blood-collection-processing/6-02-equipment-supplies.md" class="btn btn-success">
+    6.2 Equipment and Supplies
     <span class="glyphicon glyphicon-chevron-right"></span>
   </a>
 </div>

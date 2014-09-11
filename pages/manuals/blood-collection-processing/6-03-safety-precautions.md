@@ -1,4 +1,4 @@
-## 7.3 Safety Issues and Precautions for Handling Blood Specimens
+## 6.3 Safety Issues and Precautions for Handling Blood Specimens
 
 In accordance with the OSHA regulations on blood borne pathogens, the CCI recommends the following laboratory safety protocol for the blood collection:
 
@@ -12,9 +12,9 @@ In accordance with the OSHA regulations on blood borne pathogens, the CCI recomm
 
 <div class="center">
 <div class="btn-group">
-  <a href=":pages_path:/manuals/blood-collection-processing/7-02-equipment-supplies.md" class="btn btn-default">
+  <a href=":pages_path:/manuals/blood-collection-processing/6-02-equipment-supplies.md" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-left"></span>
-    7.2 Equipment and Supplies
+    6.2 Equipment and Supplies
   </a>
 
   <a href=":pages_path:/manuals/blood-collection-processing" class="btn btn-default">
@@ -22,8 +22,8 @@ In accordance with the OSHA regulations on blood borne pathogens, the CCI recomm
     Blood Collection and Processing
   </a>
 
-  <a href=":pages_path:/manuals/blood-collection-processing/7-04-phlebotomy-logistics.md" class="btn btn-success">
-    7.4 Phlebotomy Logistics
+  <a href=":pages_path:/manuals/blood-collection-processing/6-04-phlebotomy-logistics.md" class="btn btn-success">
+    6.4 Phlebotomy Logistics
     <span class="glyphicon glyphicon-chevron-right"></span>
   </a>
 </div>

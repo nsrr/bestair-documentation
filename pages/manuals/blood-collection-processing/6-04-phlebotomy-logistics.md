@@ -1,10 +1,10 @@
-## 7.4 Phlebotomy Logistics
+## 6.4 Phlebotomy Logistics
 
-### 7.4.1 Participant Refusal of Phlebotomy
+### 6.4.1 Participant Refusal of Phlebotomy
 
 Rarely, a participant will refuse phlebotomy.  Please keep a list of the ID numbers of any of these participants and identify which test they refused.
 
-### 7.4.2 Description of Collection Tubes
+### 6.4.2 Description of Collection Tubes
 
 | Test                            | Tube          | Vial Volume (ml) | Volume Collected (ml) | Special Instructions or Comments  |
 |:-------------------------------:|:-------------:|:----------------:|:---------------------:|:---------------------------------:|
@@ -20,9 +20,9 @@ Rarely, a participant will refuse phlebotomy.  Please keep a list of the ID numb
 
 <div class="center">
 <div class="btn-group">
-  <a href=":pages_path:/manuals/blood-collection-processing/7-03-safety-precautions.md" class="btn btn-default">
+  <a href=":pages_path:/manuals/blood-collection-processing/6-03-safety-precautions.md" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-left"></span>
-    7.3 Safety and Precautions for Handling Blood Specimens
+    6.3 Safety and Precautions for Handling Blood Specimens
   </a>
 
   <a href=":pages_path:/manuals/blood-collection-processing" class="btn btn-default">
@@ -30,8 +30,8 @@ Rarely, a participant will refuse phlebotomy.  Please keep a list of the ID numb
     Blood Collection and Processing
   </a>
 
-  <a href=":pages_path:/manuals/blood-collection-processing/7-05-01-preparation.md" class="btn btn-success">
-    7.5.1 Preparation
+  <a href=":pages_path:/manuals/blood-collection-processing/6-05-01-preparation.md" class="btn btn-success">
+    6.5.1 Preparation
     <span class="glyphicon glyphicon-chevron-right"></span>
   </a>
 </div>

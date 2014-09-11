@@ -1,4 +1,4 @@
-## 7.6.6 AM Aliquoting Scheme
+## 6.6.6 AM Aliquoting Scheme
 
 | Vial No. | Draw Tube              | Aliquot Vial Size (ml) | Aliquot Volume (ml) |
 |:--------:|:----------------------:|:----------------------:|:-------------------:|
@@ -40,9 +40,9 @@
 
 <div class="center">
 <div class="btn-group">
-  <a href=":pages_path:/manuals/blood-collection-processing/7-06-05-centrifugation.md" class="btn btn-default">
+  <a href=":pages_path:/manuals/blood-collection-processing/6-06-05-centrifugation.md" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-left"></span>
-    7.6.5 Centrifugation
+    6.6.5 Centrifugation
   </a>
 
   <a href=":pages_path:/manuals/blood-collection-processing" class="btn btn-default">
@@ -50,8 +50,8 @@
     Blood Collection and Processing
   </a>
 
-  <a href=":pages_path:/manuals/blood-collection-processing/7-06-07-special-circumstances.md" class="btn btn-success">
-    7.6.7 Special Circumstances
+  <a href=":pages_path:/manuals/blood-collection-processing/6-06-07-special-circumstances.md" class="btn btn-success">
+    6.6.7 Special Circumstances
     <span class="glyphicon glyphicon-chevron-right"></span>
   </a>
 </div>

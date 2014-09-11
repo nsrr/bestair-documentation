@@ -1,4 +1,4 @@
-## 7.2 Equipment and Supplies
+## 6.2 Equipment and Supplies
 
 **Blood collection supplies:**
 
@@ -32,9 +32,9 @@
 
 <div class="center">
 <div class="btn-group">
-  <a href=":pages_path:/manuals/blood-collection-processing/7-01-background-rationale.md" class="btn btn-default">
+  <a href=":pages_path:/manuals/blood-collection-processing/6-01-background-rationale.md" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-left"></span>
-    7.1 Background and Rationale
+    6.1 Background and Rationale
   </a>
 
   <a href=":pages_path:/manuals/blood-collection-processing" class="btn btn-default">
@@ -42,8 +42,8 @@
     Blood Collection and Processing
   </a>
 
-  <a href=":pages_path:/manuals/blood-collection-processing/7-03-safety-precautions.md" class="btn btn-success">
-    7.3 Safety and Precautions for Handling Blood Specimens
+  <a href=":pages_path:/manuals/blood-collection-processing/6-03-safety-precautions.md" class="btn btn-success">
+    6.3 Safety and Precautions for Handling Blood Specimens
     <span class="glyphicon glyphicon-chevron-right"></span>
   </a>
 </div>

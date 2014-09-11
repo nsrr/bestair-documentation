@@ -1,4 +1,4 @@
-## 7.6.4 Daily Preparation
+## 6.6.4 Daily Preparation
 
 Aliquot racks will be set up to correspond to each blood collection tube rack. Rack setup is completed prior to the participant’s visit.  All tubes and vials are labeled with Sample ID labels (if not previously done) and arranged in the appropriate working order.
 
@@ -7,9 +7,9 @@ Aliquot racks will be set up to correspond to each blood collection tube rack. R
 
 <div class="center">
 <div class="btn-group">
-  <a href=":pages_path:/manuals/blood-collection-processing/7-06-03-aliquoting-sample-tubes.md" class="btn btn-default">
+  <a href=":pages_path:/manuals/blood-collection-processing/6-06-03-aliquoting-sample-tubes.md" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-left"></span>
-    7.6.3 Aliquoting Sample Tubes
+    6.6.3 Aliquoting Sample Tubes
   </a>
 
   <a href=":pages_path:/manuals/blood-collection-processing" class="btn btn-default">
@@ -17,8 +17,8 @@ Aliquot racks will be set up to correspond to each blood collection tube rack. R
     Blood Collection and Processing
   </a>
 
-  <a href=":pages_path:/manuals/blood-collection-processing/7-06-05-01-plasma.md" class="btn btn-success">
-    7.6.5 Centrifugation
+  <a href=":pages_path:/manuals/blood-collection-processing/6-06-05-centrifugation.md" class="btn btn-success">
+    6.6.5 Centrifugation
     <span class="glyphicon glyphicon-chevron-right"></span>
   </a>
 </div>

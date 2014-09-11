@@ -1,4 +1,4 @@
-## 7.5.2 Venipuncture Procedure
+## 6.5.2 Venipuncture Procedure
 
 **ALWAYS WEAR LATEX GLOVES AND LAB COAT**
 
@@ -24,9 +24,9 @@
 
 <div class="center">
 <div class="btn-group">
-  <a href=":pages_path:/manuals/blood-collection-processing/7-05-01-preparation.md" class="btn btn-default">
+  <a href=":pages_path:/manuals/blood-collection-processing/6-05-01-preparation.md" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-left"></span>
-    7.5.1 Preparation
+    6.5.1 Preparation
   </a>
 
   <a href=":pages_path:/manuals/blood-collection-processing" class="btn btn-default">
@@ -34,8 +34,8 @@
     Blood Collection and Processing
   </a>
 
-  <a href=":pages_path:/manuals/blood-collection-processing/7-05-03-guidelines-for-difficulties.md" class="btn btn-success">
-    7.5.3 Guidelines for Difficulties
+  <a href=":pages_path:/manuals/blood-collection-processing/6-05-03-guidelines-for-difficulties.md" class="btn btn-success">
+    6.5.3 Guidelines for Difficulties
     <span class="glyphicon glyphicon-chevron-right"></span>
   </a>
 </div>

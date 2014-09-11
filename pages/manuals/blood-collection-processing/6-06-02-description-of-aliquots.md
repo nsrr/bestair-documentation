@@ -1,4 +1,4 @@
-## 7.6.2 Description of Aliquots
+## 6.6.2 Description of Aliquots
 
 | Test                            | Draw Tube                      | Amount of Blood          | Spin (rpms') / Time        | Aliquot - Amount and Time | Special Instructions |
 |:-------------------------------:|:------------------------------:|:------------------------:|:--------------------------:|:-------------------------:|:--------------------:|
@@ -14,9 +14,9 @@
 
 <div class="center">
 <div class="btn-group">
-  <a href=":pages_path:/manuals/blood-collection-processing/7-06-01-overview.md" class="btn btn-default">
+  <a href=":pages_path:/manuals/blood-collection-processing/6-06-01-overview.md" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-left"></span>
-    7.6.1 Overview
+    6.6.1 Overview
   </a>
 
   <a href=":pages_path:/manuals/blood-collection-processing" class="btn btn-default">
@@ -24,8 +24,8 @@
     Blood Collection and Processing
   </a>
 
-  <a href=":pages_path:/manuals/blood-collection-processing/7-06-03-aliquoting-sample-tubes.md" class="btn btn-success">
-    7.6.3 Aliquoting Sample Tubes
+  <a href=":pages_path:/manuals/blood-collection-processing/6-06-03-aliquoting-sample-tubes.md" class="btn btn-success">
+    6.6.3 Aliquoting Sample Tubes
     <span class="glyphicon glyphicon-chevron-right"></span>
   </a>
 </div>

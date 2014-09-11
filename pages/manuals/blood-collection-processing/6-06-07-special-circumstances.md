@@ -1,4 +1,4 @@
-## 7.6.7 Special Circumstances
+## 6.6.7 Special Circumstances
 
 **<u>Plasma specimens cannot be processed within 30 minutes of collection.</u>**  If centrifugation cannot be performed within 30 minutes of collection, try to process specimens as soon as possible after that time. Maintain the plasma draw tubes on wet ice until centrifugation.
 
@@ -7,9 +7,9 @@
 
 <div class="center">
 <div class="btn-group">
-  <a href=":pages_path:/manuals/blood-collection-processing/7-06-06-am-aliquoting-scheme.md" class="btn btn-default">
+  <a href=":pages_path:/manuals/blood-collection-processing/6-06-06-am-aliquoting-scheme.md" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-left"></span>
-    7.6.6 AM Aliquoting Scheme
+    6.6.6 AM Aliquoting Scheme
   </a>
 
   <a href=":pages_path:/manuals/blood-collection-processing" class="btn btn-default">
