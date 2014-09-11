@@ -1,4 +1,4 @@
-## 13.2.3 Introduction and Rapport Building
+## 12.2.3 Introduction and Rapport Building
 
 _“Hi ____________ (client’s name). Thank you for agreeing to participate in our study. So far you have had your sleep study in the lab, may have met with your doctor, and have chosen CPAP as your preferred form of treatment. The purpose of our meetings will be to discuss your experiences with CPAP in the lab and whether or not you felt better after using CPAP in the lab, and the effect of CPAP on your health and everyday functioning. How does that sound to you? What else about CPAP would you like to discuss today?”_
 
@@ -48,9 +48,9 @@ _“How much do you want to start using CPAP? Rate your motivation to use CPAP o
 
 <div class="center">
 <div class="btn-group">
-  <a href=":pages_path:/manuals/motivational-interviewing/13-02-02-session-goals.md" class="btn btn-default">
+  <a href=":pages_path:/manuals/motivational-interviewing/12-02-02-session-goals.md" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-left"></span>
-    13.2.2 Goals of Session
+    12.2.2 Goals of Session
   </a>
 
   <a href=":pages_path:/manuals/motivational-interviewing" class="btn btn-default">
@@ -58,9 +58,9 @@ _“How much do you want to start using CPAP? Rate your motivation to use CPAP o
     Motivational Interviewing and Protocol
   </a>
 
-  <a href=":pages_path:/motivational-interviewing/13-02-04-info-exchange-video-clip.md" class="btn btn-success">
-    13.2.4 Information Exchange: Video Clip of OSA Patient
+  <a href=":pages_path:/motivational-interviewing/12-02-04-info-exchange-video-clip.md" class="btn btn-success">
     <span class="glyphicon glyphicon-chevron-right"></span>
+    12.2.4 Information Exchange: Video Clip of OSA Patient
   </a>
 </div>
 </div>

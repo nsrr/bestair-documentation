@@ -1,4 +1,4 @@
-## 13.2.7 Negotatiate a Plan, Based on Patient's Readiness and Confidence
+## 12.2.7 Negotatiate a Plan, Based on Patient's Readiness and Confidence
 
 _“What are your thoughts about using CPAP this week? To what extent do you think you will be able to use it to begin with?”_
 
@@ -23,9 +23,9 @@ _“Some people find it helpful to write down their goals. To what extent would 
 
 <div class="center">
 <div class="btn-group">
-  <a href=":pages_path:/manuals/motivational-interviewing/13-02-06-info-exchange-posttreatment-sleep-study.md" class="btn btn-default">
+  <a href=":pages_path:/manuals/motivational-interviewing/12-02-06-info-exchange-posttreatment-sleep-study.md" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-left"></span>
-    13.2.6 Information Exchange: Post-treatment Sleep Study
+    12.2.6 Information Exchange: Post-treatment Sleep Study
   </a>
 
   <a href=":pages_path:/manuals/motivational-interviewing" class="btn btn-default">
@@ -33,9 +33,9 @@ _“Some people find it helpful to write down their goals. To what extent would 
     Motivational Interviewing and Protocol
   </a>
 
-  <a href=":pages_path:/motivational-interviewing/13-02-08-session1-summary.md" class="btn btn-success">
-    13.2.8 Summary of Session 1, Prepare for Session 2
+  <a href=":pages_path:/motivational-interviewing/12-02-08-session1-summary.md" class="btn btn-success">
     <span class="glyphicon glyphicon-chevron-right"></span>
+    12.2.8 Summary of Session 1, Prepare for Session 2
   </a>
 </div>
 </div>

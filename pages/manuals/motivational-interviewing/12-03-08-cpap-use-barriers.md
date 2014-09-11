@@ -1,4 +1,4 @@
-## 13.3.8 Explore Barriers to CPAP Use (Experienced or Anticipated)
+## 12.3.8 Explore Barriers to CPAP Use (Experienced or Anticipated)
 
 Based on the client’s level of motivation, explore the barriers that might get in the way of him/her using CPAP more successfully. Refer back to the decisional balance tip sheet completed at the beginning of session 2.
 
@@ -16,9 +16,9 @@ If participant doesn’t express difficulties, acknowledge his commitment to CPA
 
 <div class="center">
 <div class="btn-group">
-  <a href=":pages_path:/manuals/motivational-interviewing/13-03-07-reassess-motivation-confidence.md" class="btn btn-default">
+  <a href=":pages_path:/manuals/motivational-interviewing/12-03-07-reassess-motivation-confidence.md" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-left"></span>
-    13.3.7 Reassess Motivation and Confidence
+    12.3.7 Reassess Motivation and Confidence
   </a>
 
   <a href=":pages_path:/manuals/motivational-interviewing" class="btn btn-default">
@@ -26,9 +26,9 @@ If participant doesn’t express difficulties, acknowledge his commitment to CPA
     Motivational Interviewing and Protocol
   </a>
 
-  <a href=":pages_path:/motivational-interviewing/13-03-09-renegotiate-plan.md" class="btn btn-success">
-    13.3.9 Renegotiate a Plan Based on Patient's Readiness and Confidence
+  <a href=":pages_path:/motivational-interviewing/12-03-09-renegotiate-plan.md" class="btn btn-success">
     <span class="glyphicon glyphicon-chevron-right"></span>
+    12.3.9 Renegotiate a Plan Based on Patient's Readiness and Confidence
   </a>
 </div>
 </div>

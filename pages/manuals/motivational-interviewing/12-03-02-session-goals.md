@@ -1,4 +1,4 @@
-## 13.3.2 Goals of Session
+## 12.3.2 Goals of Session
 
 * Elicit subjective appraisals of use.
 * Help clients think about the impact of untreated OSA on their health and quality of life.
@@ -10,9 +10,9 @@
 
 <div class="center">
 <div class="btn-group">
-  <a href=":pages_path:/manuals/motivational-interviewing/13-03-01-materials-needed.md" class="btn btn-default">
+  <a href=":pages_path:/manuals/motivational-interviewing/12-03-01-materials-needed.md" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-left"></span>
-    13.3.1 Materials Needed
+    12.3.1 Materials Needed
   </a>
 
   <a href=":pages_path:/manuals/motivational-interviewing" class="btn btn-default">
@@ -20,9 +20,9 @@
     Motivational Interviewing and Protocol
   </a>
 
-  <a href=":pages_path:/motivational-interviewing/13-03-03-introduction-checking-in.md" class="btn btn-success">
-    13.3.3 Introduction and Checking In
+  <a href=":pages_path:/motivational-interviewing/12-03-03-introduction-checking-in.md" class="btn btn-success">
     <span class="glyphicon glyphicon-chevron-right"></span>
+    12.3.3 Introduction and Checking In
   </a>
 </div>
 </div>

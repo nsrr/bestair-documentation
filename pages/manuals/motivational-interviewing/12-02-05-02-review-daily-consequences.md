@@ -1,4 +1,4 @@
-## 13.2.5.2 Review Daily Consequences and Functional Impairments of Sleep Apnea
+## 12.2.5.2 Review Daily Consequences and Functional Impairments of Sleep Apnea
 
 <div class="bs-callout bs-callout-info">
   <p>
@@ -19,9 +19,9 @@ _People who score in this range often have difficulties with feeling sleepy duri
 
 <div class="center">
 <div class="btn-group">
-  <a href=":pages_path:/manuals/motivational-interviewing/13-02-05-01-review-sleep-study.md" class="btn btn-default">
+  <a href=":pages_path:/manuals/motivational-interviewing/12-02-05-01-review-sleep-study.md" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-left"></span>
-    13.2.5.1 Review Sleep Study: RDI and O2 Desaturation Results Pre and Post CPAP
+    12.2.5.1 Review Sleep Study: RDI and O2 Desaturation Results Pre and Post CPAP
   </a>
 
   <a href=":pages_path:/manuals/motivational-interviewing" class="btn btn-default">
@@ -29,9 +29,9 @@ _People who score in this range often have difficulties with feeling sleepy duri
     Motivational Interviewing and Protocol
   </a>
 
-  <a href=":pages_path:/motivational-interviewing/13-02-06-info-exchange-posttreatment-sleep-study.md" class="btn btn-success">
-    13.2.6 Information Exchange: Post-treatment Sleep Study
+  <a href=":pages_path:/motivational-interviewing/12-02-06-info-exchange-posttreatment-sleep-study.md" class="btn btn-success">
     <span class="glyphicon glyphicon-chevron-right"></span>
+    12.2.6 Information Exchange: Post-treatment Sleep Study
   </a>
 </div>
 </div>

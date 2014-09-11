@@ -1,4 +1,4 @@
-## 13.3.10 Summarize/Arrange Follow-Up/Wrap Up and Referrals
+## 12.3.10 Summarize/Arrange Follow-Up/Wrap Up and Referrals
 
 * 1. Summarize the session and what the patient has agreed to do. Highlight key information. Some options to include:
 
@@ -17,9 +17,9 @@
 
 <div class="center">
 <div class="btn-group">
-  <a href=":pages_path:/manuals/motivational-interviewing/13-03-09-renegotiate-plan.md" class="btn btn-default">
+  <a href=":pages_path:/manuals/motivational-interviewing/12-03-09-renegotiate-plan.md" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-left"></span>
-    13.3.9 Renegotiate a Plan Based on Patient's Readiness and Confidence
+    12.3.9 Renegotiate a Plan Based on Patient's Readiness and Confidence
   </a>
 
   <a href=":pages_path:/manuals/motivational-interviewing" class="btn btn-default">

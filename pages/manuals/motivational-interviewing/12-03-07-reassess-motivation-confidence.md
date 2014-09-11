@@ -1,4 +1,4 @@
-## 13.3.7 Reassess Motivation and Confidence
+## 12.3.7 Reassess Motivation and Confidence
 
 <div class="bs-callout bs-callout-info">
   <p>
@@ -26,9 +26,9 @@ _“How confident or able do you think that you are to use CPAP on a regular bas
 
 <div class="center">
 <div class="btn-group">
-  <a href=":pages_path:/manuals/motivational-interviewing/13-03-06-info-exchange-cpap-benefits.md" class="btn btn-default">
+  <a href=":pages_path:/manuals/motivational-interviewing/12-03-06-info-exchange-cpap-benefits.md" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-left"></span>
-    13.3.6 Information Exchange: CPAP Benefits for Health & Functioning
+    12.3.6 Information Exchange: CPAP Benefits for Health & Functioning
   </a>
 
   <a href=":pages_path:/manuals/motivational-interviewing" class="btn btn-default">
@@ -36,9 +36,9 @@ _“How confident or able do you think that you are to use CPAP on a regular bas
     Motivational Interviewing and Protocol
   </a>
 
-  <a href=":pages_path:/motivational-interviewing/13-03-08-cpap-use-barriers.md" class="btn btn-success">
-    13.3.8 Explore Barriers to CPAP Use (Experienced or Anticipated)
+  <a href=":pages_path:/motivational-interviewing/12-03-08-cpap-use-barriers.md" class="btn btn-success">
     <span class="glyphicon glyphicon-chevron-right"></span>
+    12.3.8 Explore Barriers to CPAP Use (Experienced or Anticipated)
   </a>
 </div>
 </div>

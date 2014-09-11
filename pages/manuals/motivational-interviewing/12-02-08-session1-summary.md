@@ -1,4 +1,4 @@
-## 13.2.8 Summary of Session 1, Prepare for Session 2
+## 12.2.8 Summary of Session 1, Prepare for Session 2
 
 Summarize the session and what the patient has agreed to do. Highlight only key take home messages. Options to include:
 
@@ -25,9 +25,9 @@ _“How much do you want to start using CPAP? Rate your motivation to use CPAP o
 
 <div class="center">
 <div class="btn-group">
-  <a href=":pages_path:/manuals/motivational-interviewing/13-02-07-negotiate-plan.md" class="btn btn-default">
+  <a href=":pages_path:/manuals/motivational-interviewing/12-02-07-negotiate-plan.md" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-left"></span>
-    13.2.7 Negotatiate a Plan, Based on Patient's Readiness and Confidence
+    12.2.7 Negotatiate a Plan, Based on Patient's Readiness and Confidence
   </a>
 
   <a href=":pages_path:/manuals/motivational-interviewing" class="btn btn-default">
@@ -35,9 +35,9 @@ _“How much do you want to start using CPAP? Rate your motivation to use CPAP o
     Motivational Interviewing and Protocol
   </a>
 
-  <a href=":pages_path:/motivational-interviewing/13-03-01-materials-needed.md" class="btn btn-success">
-    13.3 Second Motivational Enhancement Session
+  <a href=":pages_path:/motivational-interviewing/12-03-01-materials-needed.md" class="btn btn-success">
     <span class="glyphicon glyphicon-chevron-right"></span>
+    12.3 Second Motivational Enhancement Session
   </a>
 </div>
 </div>

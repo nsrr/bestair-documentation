@@ -1,4 +1,4 @@
-## 13.3.4 Values Assessment
+## 12.3.4 Values Assessment
 
 _“I would like to find out a little more about what’s most important to you, or how you like to spend your time.”_
 
@@ -30,9 +30,9 @@ _“What are the chances, on a scale of 0-100, that you will be able to achieve 
 
 <div class="center">
 <div class="btn-group">
-  <a href=":pages_path:/manuals/motivational-interviewing/13-03-03-introduction-checking-in.md" class="btn btn-default">
+  <a href=":pages_path:/manuals/motivational-interviewing/12-03-03-introduction-checking-in.md" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-left"></span>
-    13.3.3 Introduction and Checking In
+    12.3.3 Introduction and Checking In
   </a>
 
   <a href=":pages_path:/manuals/motivational-interviewing" class="btn btn-default">
@@ -40,9 +40,9 @@ _“What are the chances, on a scale of 0-100, that you will be able to achieve 
     Motivational Interviewing and Protocol
   </a>
 
-  <a href=":pages_path:/motivational-interviewing/13-03-05-decisional-balance-exercise.md" class="btn btn-success">
-    13.3.5 Decisional Balance Exercise
+  <a href=":pages_path:/motivational-interviewing/12-03-05-decisional-balance-exercise.md" class="btn btn-success">
     <span class="glyphicon glyphicon-chevron-right"></span>
+    12.3.5 Decisional Balance Exercise
   </a>
 </div>
 </div>

@@ -1,4 +1,4 @@
-## 13.1 Motivational Principles to Guide Each Session
+## 12.1 Motivational Principles to Guide Each Session
 
 **<u>Guiding Principles (FRAMES)</u>:** Feedback, Responsibility, Advice, Menu, Empathy, and Self-Efficacy
 
@@ -8,7 +8,7 @@
 
 <div class="center">
 <div class="btn-group">
-  <a href=":pages_path:/manuals/motivational-interviewing/13-00-motivational-interviewing-toc.md" class="btn btn-default">
+  <a href=":pages_path:/manuals/motivational-interviewing/12-00-motivational-interviewing-toc.md" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-left"></span>
     Table of Contents
   </a>
@@ -18,9 +18,9 @@
     Motivational Interviewing and Protocol
   </a>
 
-  <a href=":pages_path:/motivational-interviewing/13-02-01-materials-needed.md" class="btn btn-success">
-    13.2 First Motivational Enhancement Session
+  <a href=":pages_path:/motivational-interviewing/12-02-01-materials-needed.md" class="btn btn-success">
     <span class="glyphicon glyphicon-chevron-right"></span>
+    12.2 First Motivational Enhancement Session
   </a>
 </div>
 </div>

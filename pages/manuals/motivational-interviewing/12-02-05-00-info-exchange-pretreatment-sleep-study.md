@@ -1,4 +1,4 @@
-## 13.2.5 Information Exchange: Pre-treatment Sleep Study
+## 12.2.5 Information Exchange: Pre-treatment Sleep Study
 
 _”Would you like to know more about how a difficult night like this can affect someone’s life?”_
 
@@ -20,9 +20,9 @@ Review causes and symptoms of sleep apnea and the medical consequences of sleep 
 
 <div class="center">
 <div class="btn-group">
-  <a href=":pages_path:/manuals/motivational-interviewing/13-02-04-info-exchange-video-clip.md" class="btn btn-default">
+  <a href=":pages_path:/manuals/motivational-interviewing/12-02-04-info-exchange-video-clip.md" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-left"></span>
-    13.2.4 Information Exchange: Video Clip of OSA Patient
+    12.2.4 Information Exchange: Video Clip of OSA Patient
   </a>
 
   <a href=":pages_path:/manuals/motivational-interviewing" class="btn btn-default">
@@ -30,9 +30,9 @@ Review causes and symptoms of sleep apnea and the medical consequences of sleep 
     Motivational Interviewing and Protocol
   </a>
 
-  <a href=":pages_path:/motivational-interviewing/13-02-05-01-review-sleep-study.md" class="btn btn-success">
-    13.2.5.1 Review Sleep Study: RDI and O2 Desaturation Results Pre and Post CPAP
+  <a href=":pages_path:/motivational-interviewing/12-02-05-01-review-sleep-study.md" class="btn btn-success">
     <span class="glyphicon glyphicon-chevron-right"></span>
+    12.2.5.1 Review Sleep Study: RDI and O2 Desaturation Results Pre and Post CPAP
   </a>
 </div>
 </div>

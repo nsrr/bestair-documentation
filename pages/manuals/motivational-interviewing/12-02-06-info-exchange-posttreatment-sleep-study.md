@@ -1,4 +1,4 @@
-## 13.2.6 Information Exchange: Post-treatment Sleep Study
+## 12.2.6 Information Exchange: Post-treatment Sleep Study
 
 _“I have some information about how your body responded to using the CPAP. Would you like to see it?”_
 
@@ -17,9 +17,9 @@ _“I have some information about how your body responded to using the CPAP. Wou
 
 <div class="center">
 <div class="btn-group">
-  <a href=":pages_path:/manuals/motivational-interviewing/13-02-05-02-review-daily-consequences.md" class="btn btn-default">
+  <a href=":pages_path:/manuals/motivational-interviewing/12-02-05-02-review-daily-consequences.md" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-left"></span>
-    13.2.5.2 Review Daily Consequences and Functional Impairments of Sleep Apnea
+    12.2.5.2 Review Daily Consequences and Functional Impairments of Sleep Apnea
   </a>
 
   <a href=":pages_path:/manuals/motivational-interviewing" class="btn btn-default">
@@ -27,9 +27,9 @@ _“I have some information about how your body responded to using the CPAP. Wou
     Motivational Interviewing and Protocol
   </a>
 
-  <a href=":pages_path:/motivational-interviewing/13-02-07-negotiate-plan.md" class="btn btn-success">
-    13.2.7 Negotatiate a Plan, Based on Patient's Readiness and Confidence
+  <a href=":pages_path:/motivational-interviewing/12-02-07-negotiate-plan.md" class="btn btn-success">
     <span class="glyphicon glyphicon-chevron-right"></span>
+    12.2.7 Negotatiate a Plan, Based on Patient's Readiness and Confidence
   </a>
 </div>
 </div>

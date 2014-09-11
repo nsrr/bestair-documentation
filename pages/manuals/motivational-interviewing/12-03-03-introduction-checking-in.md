@@ -1,4 +1,4 @@
-## 13.3.3 Introduction and Checking In
+## 12.3.3 Introduction and Checking In
 
 _“Hi ____________ (client’s name). Nice to see you again. Summarize last session: (Example: “The last time we met you indicated that you wanted to treat your sleep apnea because you want to have more energy to play with your kids and you were tired of being so tired. You were quite surprised about how sleep apnea affected your body, specifically the amount of oxygen in your blood, but you thought this made sense because you are tired all of the time. You were also relieved to see that the CPAP increased the levels of Oxygen in your blood and that you are in less respiratory distress when you sleep using the CPAP machine. What thoughts have you had since our last session?”_
 
@@ -35,9 +35,9 @@ _“How might this relate to you/tell me your thoughts about the video?”_
 
 <div class="center">
 <div class="btn-group">
-  <a href=":pages_path:/manuals/motivational-interviewing/13-03-01-materials-needed.md" class="btn btn-default">
+  <a href=":pages_path:/manuals/motivational-interviewing/12-03-01-materials-needed.md" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-left"></span>
-    13.3.1 Materials Needed
+    12.3.1 Materials Needed
   </a>
 
   <a href=":pages_path:/manuals/motivational-interviewing" class="btn btn-default">
@@ -45,9 +45,9 @@ _“How might this relate to you/tell me your thoughts about the video?”_
     Motivational Interviewing and Protocol
   </a>
 
-  <a href=":pages_path:/motivational-interviewing/13-03-03-introduction-checking-in.md" class="btn btn-success">
-    13.3.3 Introduction and Checking In
+  <a href=":pages_path:/motivational-interviewing/12-03-03-introduction-checking-in.md" class="btn btn-success">
     <span class="glyphicon glyphicon-chevron-right"></span>
+    12.3.3 Introduction and Checking In
   </a>
 </div>
 </div>

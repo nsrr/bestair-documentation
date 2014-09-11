@@ -1,4 +1,4 @@
-## 13.2.5.1 Review Sleep Study: RDI and O2 Desaturation Results Pre and Post CPAP
+## 12.2.5.1 Review Sleep Study: RDI and O2 Desaturation Results Pre and Post CPAP
 
 <div class="bs-callout bs-callout-info">
   <p>
@@ -39,9 +39,9 @@ _People who score in the moderate to severe range on these measures generally ha
 
 <div class="center">
 <div class="btn-group">
-  <a href=":pages_path:/manuals/motivational-interviewing/13-02-05-00-info-exchange-pretreatment-sleep-study.md" class="btn btn-default">
+  <a href=":pages_path:/manuals/motivational-interviewing/12-02-05-00-info-exchange-pretreatment-sleep-study.md" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-left"></span>
-    13.2.5 Information Exchange: Pre-treatment Sleep Study
+    12.2.5 Information Exchange: Pre-treatment Sleep Study
   </a>
 
   <a href=":pages_path:/manuals/motivational-interviewing" class="btn btn-default">
@@ -49,9 +49,9 @@ _People who score in the moderate to severe range on these measures generally ha
     Motivational Interviewing and Protocol
   </a>
 
-  <a href=":pages_path:/motivational-interviewing/13-02-05-02-review-daily-consequences.md" class="btn btn-success">
-    13.2.5.2 Review Daily Consequences and Functional Impairments of Sleep Apnea
+  <a href=":pages_path:/motivational-interviewing/12-02-05-02-review-daily-consequences.md" class="btn btn-success">
     <span class="glyphicon glyphicon-chevron-right"></span>
+    12.2.5.2 Review Daily Consequences and Functional Impairments of Sleep Apnea
   </a>
 </div>
 </div>

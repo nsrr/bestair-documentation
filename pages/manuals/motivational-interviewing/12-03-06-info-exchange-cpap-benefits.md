@@ -1,4 +1,4 @@
-## 13.3.6 Information Exchange: CPAP Benefits for Health & Functioning
+## 12.3.6 Information Exchange: CPAP Benefits for Health & Functioning
 
 _“Last time you were here we discussed how your level of apnea, if untreated, makes you susceptible to medical problems. Today I’d like to talk with you a bit about how sleep apnea affects memory, concentration, and alertness. Is that okay with you?”_
 
@@ -26,9 +26,9 @@ _“How do you feel about these findings?”_
 
 <div class="center">
 <div class="btn-group">
-  <a href=":pages_path:/manuals/motivational-interviewing/13-03-05-decisional-balance-exercise.md" class="btn btn-default">
+  <a href=":pages_path:/manuals/motivational-interviewing/12-03-05-decisional-balance-exercise.md" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-left"></span>
-    13.3.5 Decisional Balance Exercise
+    12.3.5 Decisional Balance Exercise
   </a>
 
   <a href=":pages_path:/manuals/motivational-interviewing" class="btn btn-default">
@@ -36,9 +36,9 @@ _“How do you feel about these findings?”_
     Motivational Interviewing and Protocol
   </a>
 
-  <a href=":pages_path:/motivational-interviewing/13-03-07-reassess-motivation-confidence.md" class="btn btn-success">
-    13.3.7 Reassess Motivation and Confidence
+  <a href=":pages_path:/motivational-interviewing/12-03-07-reassess-motivation-confidence.md" class="btn btn-success">
     <span class="glyphicon glyphicon-chevron-right"></span>
+    12.3.7 Reassess Motivation and Confidence
   </a>
 </div>
 </div>

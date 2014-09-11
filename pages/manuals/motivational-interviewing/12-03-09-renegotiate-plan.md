@@ -1,4 +1,4 @@
-## 13.3.9 Renegotiate a Plan Based on Patient's Readiness and Confidence
+## 12.3.9 Renegotiate a Plan Based on Patient's Readiness and Confidence
 
 _“Some people find it helpful to write down some goals. Given how you feel about using CPAP, what changes, if any, would you like to make right now? What else might be helpful to you in your efforts to improve your sleep and overall well-being?”_
 
@@ -18,9 +18,9 @@ _“Some people find it helpful to write down some goals. Given how you feel abo
 
 <div class="center">
 <div class="btn-group">
-  <a href=":pages_path:/manuals/motivational-interviewing/13-03-08-cpap-use-barriers.md" class="btn btn-default">
+  <a href=":pages_path:/manuals/motivational-interviewing/12-03-08-cpap-use-barriers.md" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-left"></span>
-    13.3.8 Explore Barriers to CPAP Use (Experienced or Anticipated)
+    12.3.8 Explore Barriers to CPAP Use (Experienced or Anticipated)
   </a>
 
   <a href=":pages_path:/manuals/motivational-interviewing" class="btn btn-default">
@@ -28,9 +28,9 @@ _“Some people find it helpful to write down some goals. Given how you feel abo
     Motivational Interviewing and Protocol
   </a>
 
-  <a href=":pages_path:/motivational-interviewing/13-03-10-summarize-and-referrals.md" class="btn btn-success">
-    13.3.10 Summarize/Arrange Follow-Up/Wrap Up and Referrals
+  <a href=":pages_path:/motivational-interviewing/12-03-10-summarize-and-referrals.md" class="btn btn-success">
     <span class="glyphicon glyphicon-chevron-right"></span>
+    12.3.10 Summarize/Arrange Follow-Up/Wrap Up and Referrals
   </a>
 </div>
 </div>

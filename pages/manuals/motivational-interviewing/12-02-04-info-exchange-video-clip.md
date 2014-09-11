@@ -1,4 +1,4 @@
-## 13.2.4 Information Exchange: Video Clip of OSA Patient
+## 12.2.4 Information Exchange: Video Clip of OSA Patient
 
 _“I’d like to know how much you have been told about sleep apnea in general. What is your understanding of the condition? Would you like to know what I know about OSA?”_
 
@@ -23,9 +23,9 @@ _“How might this relate to you/tell me your thoughts about the video when you 
 
 <div class="center">
 <div class="btn-group">
-  <a href=":pages_path:/manuals/motivational-interviewing/13-02-03-introduction-rapport-building.md" class="btn btn-default">
+  <a href=":pages_path:/manuals/motivational-interviewing/12-02-03-introduction-rapport-building.md" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-left"></span>
-    13.2.3 Introduction and Rapport Building
+    12.2.3 Introduction and Rapport Building
   </a>
 
   <a href=":pages_path:/manuals/motivational-interviewing" class="btn btn-default">
@@ -33,9 +33,9 @@ _“How might this relate to you/tell me your thoughts about the video when you 
     Motivational Interviewing and Protocol
   </a>
 
-  <a href=":pages_path:/motivational-interviewing/13-02-05-00-info-exchange-pretreatment-sleep-study.md" class="btn btn-success">
-    13.2.5 Information Exchange: Pre-treatment Sleep Study
+  <a href=":pages_path:/motivational-interviewing/12-02-05-00-info-exchange-pretreatment-sleep-study.md" class="btn btn-success">
     <span class="glyphicon glyphicon-chevron-right"></span>
+    12.2.5 Information Exchange: Pre-treatment Sleep Study
   </a>
 </div>
 </div>

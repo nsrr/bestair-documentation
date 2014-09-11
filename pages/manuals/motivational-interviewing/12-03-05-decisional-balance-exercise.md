@@ -1,4 +1,4 @@
-## 13.3.5 Decisional Balance Exercise
+## 12.3.5 Decisional Balance Exercise
 
 _“I would like to understand the full picture about what using CPAP has been like for you. First let’s start with your thoughts on what you think the costs of, downsides about using CPAP “_
 
@@ -28,9 +28,9 @@ _“How about the other side—what do you think are some good things or upsides
 
 <div class="center">
 <div class="btn-group">
-  <a href=":pages_path:/manuals/motivational-interviewing/13-03-04-value-assessment.md" class="btn btn-default">
+  <a href=":pages_path:/manuals/motivational-interviewing/12-03-04-value-assessment.md" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-left"></span>
-    13.3.4 Values Assessment
+    12.3.4 Values Assessment
   </a>
 
   <a href=":pages_path:/manuals/motivational-interviewing" class="btn btn-default">
@@ -38,9 +38,9 @@ _“How about the other side—what do you think are some good things or upsides
     Motivational Interviewing and Protocol
   </a>
 
-  <a href=":pages_path:/motivational-interviewing/13-03-06-info-exchange-cpap-benefits.md" class="btn btn-success">
-    13.3.6 Information Exchange: CPAP Benefits for Health & Functioning
+  <a href=":pages_path:/motivational-interviewing/12-03-06-info-exchange-cpap-benefits.md" class="btn btn-success">
     <span class="glyphicon glyphicon-chevron-right"></span>
+    12.3.6 Information Exchange: CPAP Benefits for Health & Functioning
   </a>
 </div>
 </div>
