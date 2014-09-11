@@ -4,10 +4,8 @@ _“Last time you were here we discussed how your level of apnea, if untreated, 
 
 <div class="bs-callout bs-callout-info">
   <p>
-    <strong><u>Tips Sheets</u></strong>
-    * **Medical Benefits of SA Treatment**
-    * **How CPAP can improve your daily functioning**
-    * **Feedback Form showing cognitive improvements by amount of CPAP**
+    <strong><u>Tips Sheets:</u></strong>
+    Medical Benefits of SA Treatment, How CPAP can improve your daily functioning, and Feedback Form showing cognitive improvements by amount of CPAP**
   </p>
 </div>
 

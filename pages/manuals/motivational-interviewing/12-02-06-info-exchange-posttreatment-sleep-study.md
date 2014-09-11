@@ -4,9 +4,8 @@ _“I have some information about how your body responded to using the CPAP. Wou
 
 <div class="bs-callout bs-callout-info">
   <p>
-    <strong><u>Feedback Reports on Sleep Study</u></strong>
-    * RDI
-    * Oxygen Desaturation
+    <strong><u>Feedback Reports on Sleep Study:</u></strong>
+    RDI, Oxygen Desaturation
   </p>
 </div>
 

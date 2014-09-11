@@ -2,9 +2,8 @@
 
 <div class="bs-callout bs-callout-info">
   <p>
-    <strong><u>Feedback Reports on Sleep Study</u></strong>
-    * RDI
-    * Oxygen Desaturation
+    <strong><u>Feedback Reports on Sleep Study:</u></strong>
+    RDI, Oxygen Desaturation
   </p>
 </div>
 
@@ -28,11 +27,8 @@ _People who score in the moderate to severe range on these measures generally ha
 
 <div class="bs-callout bs-callout-info">
   <p>
-    <strong><u>KEY POINTS TO REMEMBER</u></strong>
-    * Empathize and use reflections; “I know this may be difficult to hear.”
-    * Adopt a curious and eliciting interview style, rather than a preachy, educational style.
-    * **<u>Personalize results.</u>** Determine if patient is having any early signs or symptoms of disease that is related to sleep apnea.
-    * **<u>Focus on the patient’s concerns and reactions</u>**, rather than your own interpretation.
+    <strong><u>KEY POINTS TO REMEMBER:</u></strong>
+    Empathize and use reflections; “I know this may be difficult to hear.”  Adopt a curious and eliciting interview style, rather than a preachy, educational style. <u>Personalize results.</u> Determine if patient is having any early signs or symptoms of disease that is related to sleep apnea. <u>Focus on the patient’s concerns and reactions</u>, rather than your own interpretation.
   </p>
 </div>
 

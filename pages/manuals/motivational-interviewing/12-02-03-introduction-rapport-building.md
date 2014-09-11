@@ -4,12 +4,8 @@ _“Hi ____________ (client’s name). Thank you for agreeing to participate in 
 
 <div class="bs-callout bs-callout-info">
   <p>
-    <strong><u>TYPICAL DAY</u></strong>
-    Probe if necessary for effects on sleep problems on:
-
-    * Mood
-    * Energy level
-    * Ability to concentrate, remember things, make decisions
+    <strong><u>TYPICAL DAY:</u></strong>
+    Probe if necessary for effects on sleep problems on: Mood, Energy level, and Ability to concentrate, remember things, make decisions
   </p>
 </div>
 
@@ -23,10 +19,7 @@ _“Is there anything else you would like to add to this picture?”_
 <div class="bs-callout bs-callout-info">
   <p>
     <strong>TYPICAL DAY: KEY POINTS TO REMEMBER</strong>
-    * Ask the person to tell their story, with as little interruption as possible. Use open ended questions to keep them talking (e.g., what happened then? How did you feel? Can you tell me more?)
-    * Use reflections to clarify your understanding and let the participant know you are listening
-
-    _Don’t try to solve problem; just gather information and build rapport_
+    Ask the person to tell their story, with as little interruption as possible. Use open ended questions to keep them talking (e.g., what happened then? How did you feel? Can you tell me more?). Use reflections to clarify your understanding and let the participant know you are listening. Don’t try to solve problem; just gather information and build rapport
   </p>
 </div>
 
@@ -40,7 +33,7 @@ _“How much do you want to start using CPAP? Rate your motivation to use CPAP o
 
 <div class="bs-callout bs-callout-info">
   <p>
-    <strong><u>TIP</u></strong>
+    <strong><u>TIP:</u></strong>
     Tailor the visit to the participant’s level motivation to use CPAP
   </p>
 </div>

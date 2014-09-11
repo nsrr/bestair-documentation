@@ -14,12 +14,12 @@ _“How do you feel after watching this video?”_
 
 _“How might this relate to you/tell me your thoughts about the video when you watch this?”_
 
-**<u>KEY POINTS TO REMEMBER</u>**
-
-* Empathize and use reflections; “I know this may be difficult to see.”
-* Utilize <u>elicit—provide—elicit</u> process: ask an open-ended question, share some information and follow up with another open-ended question to get the patient’s reaction. Adopt a curious and eliciting interview style.
-* **<u>Focus on the patient’s concerns and reactions</u>, rather than your own interpretation.**
-
+<div class="bs-callout bs-callout-info">
+  <p>
+    <strong><u>KEY POINTS TO REMEMBER:</u></strong>
+    Empathize and use reflections; “I know this may be difficult to see.” Utilize <u>elicit—provide—elicit</u> process: ask an open-ended question, share some information and follow up with another open-ended question to get the patient’s reaction. Adopt a curious and eliciting interview style. <u>Focus on the patient’s concerns and reactions</u>, rather than your own interpretation.
+  </p>
+</div>
 
 <div class="center">
 <div class="btn-group">

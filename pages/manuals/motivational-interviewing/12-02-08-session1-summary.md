@@ -17,7 +17,7 @@ _“How much do you want to start using CPAP? Rate your motivation to use CPAP o
 
 <div class="bs-callout bs-callout-info">
   <p>
-    <strong><u>TIP</u></strong>
+    <strong><u>TIP:</u></strong>
     Tailor the visit to the participant’s level motivation to use CPAP
   </p>
 </div>

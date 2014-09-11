@@ -2,7 +2,7 @@
 
 <div class="bs-callout bs-callout-info">
   <p>
-    <strong><u>Tip Sheet</u></strong>
+    <strong><u>Tip Sheet:</u></strong>
    How Motivated Am I to Use CPAP?**
   </p>
 </div>

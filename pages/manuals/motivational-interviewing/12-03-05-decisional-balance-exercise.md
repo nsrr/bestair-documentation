@@ -7,7 +7,7 @@ _“How about the other side—what do you think are some good things or upsides
 <div class="bs-callout bs-callout-info">
   <p>
     <strong><u>Tip Sheet</u></strong>
-    Decisional Balance Sheet**
+    Decisional Balance Sheet
   </p>
 </div>
 
@@ -17,11 +17,7 @@ _“How about the other side—what do you think are some good things or upsides
 <div class="bs-callout bs-callout-info">
   <p>
     <strong><u>Key Points to Remember</u></strong>
-    * Have clients be specific (e.g., when they say that one benefit of CPAP is to improve health—probe for specific health improvements and the effect that it will have on the client’s life and daily functioning.
-    * Look for discrepancy: Client may acknowledge that CPAP limits their freedom (because they have to wear the device every night) but also give them freedom (because they have more energy to do the things they want to do).
-    * Use reflections and mini-summaries throughout the exercise.
-    * Give an overall summary at the end of the exercise. “So, on the one hand, you don’t like CPAP because you find the appliance uncomfortable and it is frustrating to have it fall off in the middle of the night; on the other hand, you like CPAP, because you don’t want to feel tired all day and you wish your wife would stop complaining about your snoring. It sounds as if you are being pulled in two directions, what do you make of this?
-    * Highlight ambivalence (it is normal) and express empathy.
+    Have clients be specific (e.g., when they say that one benefit of CPAP is to improve health—probe for specific health improvements and the effect that it will have on the client’s life and daily functioning. Look for discrepancy: Client may acknowledge that CPAP limits their freedom (because they have to wear the device every night) but also give them freedom (because they have more energy to do the things they want to do). Use reflections and mini-summaries throughout the exercise. Give an overall summary at the end of the exercise. “So, on the one hand, you don’t like CPAP because you find the appliance uncomfortable and it is frustrating to have it fall off in the middle of the night; on the other hand, you like CPAP, because you don’t want to feel tired all day and you wish your wife would stop complaining about your snoring. It sounds as if you are being pulled in two directions, what do you make of this?. Highlight ambivalence (it is normal) and express empathy.
   </p>
 </div>
 

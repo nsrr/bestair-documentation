@@ -10,7 +10,7 @@ _“Some people find it helpful to write down their goals. To what extent would 
 
 <div class="bs-callout bs-callout-info">
   <p>
-    <strong><u>Tip Sheet</u></strong>
+    <strong><u>Tip Sheet:</u></strong>
     Goal Setting
   </p>
 </div>

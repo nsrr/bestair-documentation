@@ -11,7 +11,7 @@ Counselor, focus on:
 
 <div class="bs-callout bs-callout-info">
   <p>
-    <strong><u>Counselor</u></strong>
+    <strong><u>Counselor:</u></strong>
     Try to have the participant list three things from the above items. Explore each one briefly. Why was that item chosen? Why is it important to the person? Get the person to explore the positive things about the option they chose, and why they look forward to it. Then chose one of the three to build a discrepancy, using the following questions.
   </p>
 </div>

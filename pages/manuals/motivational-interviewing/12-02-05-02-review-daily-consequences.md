@@ -2,8 +2,8 @@
 
 <div class="bs-callout bs-callout-info">
   <p>
-    <strong><u>Tip Sheet</u></strong>
-    Effects of Sleep Apnea on your Daily Life**
+    <strong><u>Tip Sheet:</u></strong>
+    Effects of Sleep Apnea on your Daily Life
   </p>
 </div>
 
@@ -11,8 +11,8 @@ _People who score in this range often have difficulties with feeling sleepy duri
 
 <div class="bs-callout bs-callout-info">
   <p>
-    <strong><u>NOTE</u></strong>
-    _If they say that they have not noticed any problems, suggest that they watch those factors after they begin using CPAP to see if they experience a difference._
+    <strong><u>NOTE:</u></strong>
+    If they say that they have not noticed any problems, suggest that they watch those factors after they begin using CPAP to see if they experience a difference.
   </p>
 </div>
 
