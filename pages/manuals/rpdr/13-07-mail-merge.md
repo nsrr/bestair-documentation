@@ -1,4 +1,4 @@
-## 14.7 Mail Merge from Query Results
+## 13.7 Mail Merge from Query Results
 
 * 1. Format RPDR results in Excel to have the following headers:
 
@@ -24,9 +24,9 @@
 
 <div class="center">
 <div class="btn-group">
-  <a href=":pages_path:/manuals/rpdr/14-05-merging-patient-eligibility-search.md" class="btn btn-default">
+  <a href=":pages_path:/manuals/rpdr/13-05-merging-patient-eligibility-search.md" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-left"></span>
-    14.5 Merging the Patient and Eligibility Search
+    13.5 Merging the Patient and Eligibility Search
   </a>
 
   <a href=":pages_path:/manuals/rpdr" class="btn btn-default">

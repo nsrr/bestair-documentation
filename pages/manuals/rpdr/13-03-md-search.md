@@ -1,4 +1,4 @@
-## 14.3 Individual MD Specific Search
+## 13.3 Individual MD Specific Search
 
 * 1. Log into RPDR Enhanced Query Tool via a Partners computer
 * 2. Select **Query Items**
@@ -19,9 +19,9 @@
 
 <div class="center">
 <div class="btn-group">
-  <a href=":pages_path:/manuals/rpdr/14-02-purpose.md" class="btn btn-default">
+  <a href=":pages_path:/manuals/rpdr/13-02-purpose.md" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-left"></span>
-    14.2 Purpose
+    13.2 Purpose
   </a>
 
   <a href=":pages_path:/manuals/rpdr" class="btn btn-default">
@@ -29,9 +29,9 @@
     Research Patient Data Registry
   </a>
 
-  <a href=":pages_path:/manuals/respiratory-therapist-guidelines/14-04-overall-cad-diabetes-search.md" class="btn btn-success">
-    14.4 Overall CAD and Diabetes Search for BWH
+  <a href=":pages_path:/manuals/respiratory-therapist-guidelines/13-04-overall-cad-diabetes-search.md" class="btn btn-success">
     <span class="glyphicon glyphicon-chevron-right"></span>
+    13.4 Overall CAD and Diabetes Search for BWH
   </a>
 </div>
 </div>

@@ -1,4 +1,4 @@
-## 14.6 Finalizing the PHI and Contact Information
+## 13.6 Finalizing the PHI and Contact Information
 
 * 1. With your merged search open, mouse over Request Detailed Data and scroll down to Using a Query. Accept the privacy statement.
 * 2. Select **all available requests** and click **Next**
@@ -14,9 +14,9 @@
 
 <div class="center">
 <div class="btn-group">
-  <a href=":pages_path:/manuals/rpdr/14-05-merging-patient-eligibility-search.md" class="btn btn-default">
+  <a href=":pages_path:/manuals/rpdr/13-05-merging-patient-eligibility-search.md" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-left"></span>
-    14.5 Merging the Patient and Eligibility Search
+    13.5 Merging the Patient and Eligibility Search
   </a>
 
   <a href=":pages_path:/manuals/rpdr" class="btn btn-default">
@@ -24,9 +24,9 @@
     Research Patient Data Registry
   </a>
 
-  <a href=":pages_path:/manuals/respiratory-therapist-guidelines/14-07-mail-merge.md" class="btn btn-success">
-    14.7 Mail Merge from Query Results
+  <a href=":pages_path:/manuals/respiratory-therapist-guidelines/13-07-mail-merge.md" class="btn btn-success">
     <span class="glyphicon glyphicon-chevron-right"></span>
+    13.7 Mail Merge from Query Results
   </a>
 </div>
 </div>

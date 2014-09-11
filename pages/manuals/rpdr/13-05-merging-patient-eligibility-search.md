@@ -1,4 +1,4 @@
-## 14.5 Merging the Patient and Eligibility Search
+## 13.5 Merging the Patient and Eligibility Search
 
 * 1. Log into RPDR Enhanced Query Tool via a Partners computer
 * 2. Select **Query Items**
@@ -12,9 +12,9 @@
 
 <div class="center">
 <div class="btn-group">
-  <a href=":pages_path:/manuals/rpdr/14-04-overall-cad-diabetes-search.md" class="btn btn-default">
+  <a href=":pages_path:/manuals/rpdr/13-04-overall-cad-diabetes-search.md" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-left"></span>
-    14.4 Overall CAD and Diabetes Search for BWH
+    13.4 Overall CAD and Diabetes Search for BWH
   </a>
 
   <a href=":pages_path:/manuals/rpdr" class="btn btn-default">
@@ -22,9 +22,9 @@
     Research Patient Data Registry
   </a>
 
-  <a href=":pages_path:/manuals/respiratory-therapist-guidelines/14-06-finalizing-phi-contact-info.md" class="btn btn-success">
-    14.6 Finalizing the PHI and Contact Information
+  <a href=":pages_path:/manuals/respiratory-therapist-guidelines/13-06-finalizing-phi-contact-info.md" class="btn btn-success">
     <span class="glyphicon glyphicon-chevron-right"></span>
+    13.6 Finalizing the PHI and Contact Information
   </a>
 </div>
 </div>
