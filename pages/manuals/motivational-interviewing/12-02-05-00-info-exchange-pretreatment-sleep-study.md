@@ -9,7 +9,7 @@ Review causes and symptoms of sleep apnea and the medical consequences of sleep 
 
 <div class="bs-callout bs-callout-info">
   <p>
-    <strong><u>TIP SHEET</u></strong>
+    <strong><u>TIP SHEET:</u></strong>
 
         **Medical Consequences of Sleep Apnea** - The tip sheet works best if the person looks at the sheet him or herself, and is asked whether or not anything stands out, or is surprising.  Explore each bullet that the person picks out (how it affects their life and activities).
   </p>
