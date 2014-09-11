@@ -1,6 +1,6 @@
-## 8.6 PWV Measurement Procedure
+## 7.6 PWV Measurement Procedure
 
-### 8.6.1 Enter New Patient
+### 7.6.1 Enter New Patient
 
 Before creating a new patient entry, please check that the patient does not already exist in the database, as separate patient entries cannot be merged.
 
@@ -14,17 +14,17 @@ Before creating a new patient entry, please check that the patient does not alre
 
 * 5. Select **Update** button.
 
-### 8.6.2 Take a PWV Measurement
+### 7.6.2 Take a PWV Measurement
 
 * 6. In Patient Screen, select **PWV** by clicking on the arrow on the selection box (located next to the Analysis button).
 * 7. Select **Study** button or press **F3** to open Study Screen.
-* 8. Enter study details:
+* 7. Enter study details:
 
  * Select the box that corresponds to the site from where the measurement is to be taken for both Site A (first measurement) and Site B (second measurement).
  * The Capture Time is set to a default of 10 seconds for both the Site A and B measurement.  Alternative times can be selected for either or both sites if required.
  * The PWV algorithm has a default setting of Intersecting tangents.  To select a different algorithm, click in the circle next to the corresponding algorithm of choice.
 
-### 8.6.3 Carotid Artery Measurement
+### 7.6.3 Carotid Artery Measurement
 
 * 9. When the carotid is selected as the first site, enter the systolic and diastolic blood pressure values that have been obtained from the cuff sphygmomanometer or automatic blood pressure device.
 
@@ -33,9 +33,9 @@ Before creating a new patient entry, please check that the patient does not alre
   Distances directly between each artery location and the supra-sternal notch are entered in the distal and proximal boxes.
  * For the instance of Femoral – Dorsalis Pedis (distal box), the actual measurement between the sites can be entered directly into the PWV box.
 
-### 8.6.4 Tonometer Placement
+### 7.6.4 Tonometer Placement
 
-#### 8.6.4.1 Carotid Measurement
+#### 7.6.4.1 Carotid Measurement
 
 * 10. Have the participant lie on the bed with head tilted slightly to the back and to one side (either right or left).  This is best achieved without a pillow.
 * 11. Stand either behind the patient’s head or to one side.
@@ -43,12 +43,12 @@ Before creating a new patient entry, please check that the patient does not alre
 
 A pillow may be placed across the shoulder of the patient to allow the operator to rest their forearm to ensure that the tonometer and wrist remain steady during measurement.
 
-#### 8.6.4.2 Femoral Measurement
+#### 7.6.4.2 Femoral Measurement
 
 * 13. Have the participant lie on the bed with the thigh flexed at the hip joint, moved away from the midline of the body and rotated away from the body.
 * 14. Press directly backward at a point that is midway between the anterior superior iliac spine and the front of the pubic bone.
 
-### 8.6.5 ECG Lead Placement
+### 7.6.5 ECG Lead Placement
 
 * 15. Make sure skin is properly prepared (hair removed at electrode site and skin cleaned with alcohol wipe) and that electrodes are positioned correctly.
 * 16. Position ECG leads in a Lead II Configuration as shown below.
@@ -57,11 +57,11 @@ A pillow may be placed across the shoulder of the patient to allow the operator 
 
 * 17. Select Data Capture
 
-### 8.6.6 Capturing the waveforms
+### 7.6.6 Capturing the waveforms
 
 Once the ECG trace is shown along the screen and is steady, proceed as follows:
 
-* 18. Place the tonometer at Site A location and adjust the position until a strong, accurate, and reproducible waveform is made and displayed in the Signal Detail window. **Ensure that the R-wave is the most clear, prominent feature of the ECG signal.**
+* 17. Place the tonometer at Site A location and adjust the position until a strong, accurate, and reproducible waveform is made and displayed in the Signal Detail window. **Ensure that the R-wave is the most clear, prominent feature of the ECG signal.**
 
  * The signal will be automatically re-scaled and zoomed to fit the waveform within the signal detail window every 5 seconds.
 
@@ -76,7 +76,7 @@ Once the ECG trace is shown along the screen and is steady, proceed as follows:
 * 23. Confirm that the signals have been captured successfully.
 * 24. Select **OK** and proceed to report.
 
-### 8.6.7 Examine the report for quality control
+### 7.6.7 Examine the report for quality control
 
 The Report Screen will be automatically displayed after data capture has been completed. Before proceeding with the interpretation of results, it is important to check the quality control to ensure that the measurement has been recorded with sufficient quality.
 
@@ -91,9 +91,9 @@ The Quality Control parameters provide a guide to quality of the reading rather 
 
 <div class="center">
 <div class="btn-group">
-  <a href=":pages_path:/manuals/peripheral-arterial-tonometry/8-05-pwa-measurement-procedure.md" class="btn btn-default">
+  <a href=":pages_path:/manuals/peripheral-arterial-tonometry/7-05-pwa-measurement-procedure.md" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-left"></span>
-    8.5 PWA Measurement Procedure
+    7.5 PWA Measurement Procedure
   </a>
 
   <a href=":pages_path:/manuals/blood-collection-processing" class="btn btn-default">
