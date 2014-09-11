@@ -1,4 +1,4 @@
-## 5.4 Quality Assurance
+## 4.4 Quality Assurance
 
 There are many possible sources of error in making anthropometric measurements. These include use of non-calibrated equipment, improper positioning of the subject, incorrect or variable placement of recording devices, and transcription errors. To attempt the highest quality readings for BestAIR, the following approaches will be used:
 
@@ -33,9 +33,9 @@ Observation of performing these measurements on 3 volunteers by a GCRC or 2 CCI 
 
 <div class="center">
 <div class="btn-group">
-  <a href=":pages_path:/manuals/anthropometry/5-03-equipment.md" class="btn btn-default">
+  <a href=":pages_path:/manuals/anthropometry/4-03-equipment.md" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-left"></span>
-    5.3 Equipment
+    4.3 Equipment
   </a>
 
   <a href=":pages_path:/manuals/anthropometry" class="btn btn-default">
@@ -43,8 +43,8 @@ Observation of performing these measurements on 3 volunteers by a GCRC or 2 CCI 
     Anthropometry
   </a>
 
-  <a href=":pages_path:/manuals/anthropometry/5-05-subject-preparation.md" class="btn btn-success">
-    5.5 Subject Preparation
+  <a href=":pages_path:/manuals/anthropometry/4-05-subject-preparation.md" class="btn btn-success">
+    4.5 Subject Preparation
     <span class="glyphicon glyphicon-chevron-right"></span>
   </a>
 </div>

@@ -1,4 +1,4 @@
-## 5.7 Height Conversion Chart
+## 4.7 Height Conversion Chart
 
 | centimeters | feet    | inches | centimeters | feet    | inches |
 |:-----------:|:-------:|:------:|:-----------:|:-------:|:------:|
@@ -38,9 +38,9 @@
 
 <div class="center">
 <div class="btn-group">
-  <a href=":pages_path:/manuals/anthropometry/5-06-measurements.md" class="btn btn-default">
+  <a href=":pages_path:/manuals/anthropometry/4-06-measurements.md" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-left"></span>
-    5.6 Measurements
+    4.6 Measurements
   </a>
 
   <a href=":pages_path:/manuals/anthropometry" class="btn btn-default">
@@ -48,8 +48,8 @@
     Anthropometry
   </a>
 
-  <a href=":pages_path:/manuals/anthropometry/5-08-weight-conversion-chart.md" class="btn btn-success">
-    5.8 Weight Conversion Chart
+  <a href=":pages_path:/manuals/anthropometry/4-08-weight-conversion-chart.md" class="btn btn-success">
+    4.8 Weight Conversion Chart
     <span class="glyphicon glyphicon-chevron-right"></span>
   </a>
 </div>

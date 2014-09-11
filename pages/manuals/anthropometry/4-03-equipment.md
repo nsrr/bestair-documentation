@@ -1,4 +1,4 @@
-## 5.3 Equipment
+## 4.3 Equipment
 
 * Holtain Stadiometer (or equivalent)
 * Healthometer Digital Scale (or similar calibrated research quality digital scale)
@@ -8,9 +8,9 @@
 
 <div class="center">
 <div class="btn-group">
-  <a href=":pages_path:/manuals/anthropometry/5-02-personnel.md" class="btn btn-default">
+  <a href=":pages_path:/manuals/anthropometry/4-02-personnel.md" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-left"></span>
-    5.2 Personnel
+    4.2 Personnel
   </a>
 
   <a href=":pages_path:/manuals/anthropometry" class="btn btn-default">
@@ -18,8 +18,8 @@
     Anthropometry
   </a>
 
-  <a href=":pages_path:/manuals/anthropometry/5-04-quality-assurance.md" class="btn btn-success">
-    5.4 Quality Assurance
+  <a href=":pages_path:/manuals/anthropometry/4-04-quality-assurance.md" class="btn btn-success">
+    4.4 Quality Assurance
     <span class="glyphicon glyphicon-chevron-right"></span>
   </a>
 </div>

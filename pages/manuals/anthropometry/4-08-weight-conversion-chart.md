@@ -1,4 +1,4 @@
-## 5.8 Weight Conversion Chart
+## 4.8 Weight Conversion Chart
 
 | kg    | lb  | kg    | lb  | kg    | lb  | kg    | lb  | kg    | lb  |
 |:-----:|:---:|:-----:|:---:|:-----:|:---:|:-----:|:---:|:-----:|:---:|
@@ -55,9 +55,9 @@
 
 <div class="center">
 <div class="btn-group">
-  <a href=":pages_path:/manuals/anthropometry/5-07-height-conversion-chart.md" class="btn btn-default">
+  <a href=":pages_path:/manuals/anthropometry/4-07-height-conversion-chart.md" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-left"></span>
-    5.7 Height Conversion Chart
+    4.7 Height Conversion Chart
   </a>
 
   <a href=":pages_path:/manuals/anthropometry" class="btn btn-default">
