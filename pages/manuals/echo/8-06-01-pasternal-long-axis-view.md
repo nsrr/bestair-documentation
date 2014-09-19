@@ -2,7 +2,7 @@
 
 ### 8.6.1 Parasternal Long Axis View
 
-**IMAGE**
+_IMAGE_
 
 **In the ideal echocardiographic “window” for the long axis:**
 
