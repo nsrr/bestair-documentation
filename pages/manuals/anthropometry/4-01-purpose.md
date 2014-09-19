@@ -15,7 +15,7 @@ Standardization of height, waist, hip, neck and weight measurements.
     Anthropometry
   </a>
 
-  <a href=":pages_path:/manuals/anthropometry/4-02-purpose.md" class="btn btn-success">
+  <a href=":pages_path:/manuals/anthropometry/4-02-personnel.md" class="btn btn-success">
     4.2 Personnel
     <span class="glyphicon glyphicon-chevron-right"></span>
   </a>
