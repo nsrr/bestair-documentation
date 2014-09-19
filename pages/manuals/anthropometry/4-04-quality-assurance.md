@@ -9,14 +9,14 @@ There are many possible sources of error in making anthropometric measurements. 
 * Ongoing observation of technique
 * Monitoring of between and within subject variability, digit preference, etc.
 
-### 5.4.1 Certification Requirements
+### 4.4.1 Certification Requirements
 
 Observation of performing these measurements on 3 volunteers by a GCRC or 2 CCI trainers, with evidence that all elements of measurement are followed (placement of tapes, preparation of the participant)
 
 * Evidence of agreement of 3 replicate readings within .5 cm or 0.1 kg (for weight) for each volunteer measured
 * Evidence of agreement with the standard (i.e. Trainer) to within 0.5 cm or 0.1 kg (for weight), using the average of 3 readings per practice study subject.
 
-### 5.4.2 Calibration of Equipment
+### 4.4.2 Calibration of Equipment
 
 * **Stadiometer**
 
