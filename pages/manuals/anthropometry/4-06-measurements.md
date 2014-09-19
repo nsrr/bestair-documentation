@@ -9,8 +9,10 @@ Circumferences are measured in duplicate by a two person team.  If differences o
 3. Position the participant’s head with the Frankfurt plane parallel to the floor – the top of the external auditory meatus (ear canal) should be level with the inferior margin of the bony orbit (cheek bone).
 4. Ask the participant to take a deep breath in and look straight forward.
 4. Lower the head piece of the stadiometer or the sliding part of the measuring rod to the crown of the head, so that the hair is pressed flat.
-6. Measure height to the nearest centimeter.  If at a 0.4 cm, round to the nearest higher integer.
+6. Measure height to the nearest centimeter.  f at a 0.4 cm, round to the nearest higher integer.
 7. Record on the Physical Measurements Form.
+
+_IMAGE_
 
 ### 4.6.2 Weight
 
@@ -32,6 +34,8 @@ Circumferences are measured in duplicate by a two person team.  If differences o
 8. Take the measurement twice.
 9. Record both measurements on the Physical Measurements Form.
 
+_IMAGE_
+
 ### 4.6.4 Waist Circumference
 
 This measurement should not be made over clothing.
@@ -47,6 +51,8 @@ This measurement should not be made over clothing.
 9. Take the measurement twice.
 10. Record both measurements on the Physical Measurements Form.
 
+_IMAGE_
+
 ## 4.6.4 Neck Size
 
 * 1. Instruct the participant to sit with head in the Frankfort horizontal plane.
@@ -59,6 +65,7 @@ This measurement should not be made over clothing.
 * 4. Take the measurement twice.
 * 4. Record both measurements on the Physical Measurements Form.
 
+_IMAGE_
 
 <div class="center">
 <div class="btn-group">
