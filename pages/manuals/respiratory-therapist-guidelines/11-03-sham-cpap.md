@@ -8,7 +8,7 @@ The sham units differ from the active PAP units: these devices contain the resis
 
 Low pressure (<2cm) is achieved by using an elbow with a large expiratory port that interfaces with the masks. The motor is set to deliver 10 cm H2O and the restrictor limits flow output to approximately 50L/m through the restrictor. The display should reveal a set pressure of 10 cmH2O. The unit is designed to deliver a circuit pressure of ~ 0.75 cm H2O and peak pressure of ~ 2.5 cm H2O.
 
-**IMAGE**
+_IMAGE_
 
 **Figure 1.** The lower delivered pressure is created by using a modified elbow with the unit. Standard nasal masks can be used (no pillows or full face masks) with special elbows
 
