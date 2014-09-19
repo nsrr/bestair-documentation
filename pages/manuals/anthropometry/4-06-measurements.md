@@ -69,9 +69,9 @@ _IMAGE_
 
 <div class="center">
 <div class="btn-group">
-  <a href=":pages_path:/manuals/anthropometry/4-04-subject-preparation.md" class="btn btn-default">
+  <a href=":pages_path:/manuals/anthropometry/4-05-subject-preparation.md" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-left"></span>
-    4.4 Subject Preparation
+    4.5 Subject Preparation
   </a>
 
   <a href=":pages_path:/manuals/anthropometry" class="btn btn-default">
