@@ -30,7 +30,7 @@
     Table of Contents - Manuals
   </a>
 
-  <a href=":pages_path:/manuals/peripheral-arterial-tonometry/7-01-overview.mdd" class="btn btn-success">
+  <a href=":pages_path:/manuals/peripheral-arterial-tonometry/7-01-overview.md" class="btn btn-success">
     7.1 Overview
     <span class="glyphicon glyphicon-chevron-right"></span>
   </a>
