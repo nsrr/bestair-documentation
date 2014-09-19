@@ -53,7 +53,7 @@ A pillow may be placed across the shoulder of the patient to allow the operator 
 * 15. Make sure skin is properly prepared (hair removed at electrode site and skin cleaned with alcohol wipe) and that electrodes are positioned correctly.
 * 16. Position ECG leads in a Lead II Configuration as shown below.
 
-**IMAGE**
+_IMAGE_
 
 * 17. Select Data Capture
 

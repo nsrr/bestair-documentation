@@ -10,7 +10,7 @@
 
 In addition to 2D imaging, the following Doppler examinations will be required from this view.
 
-**IMAGE**
+_IMAGE_
 
 * From the apical four chamber view: record the mitral inflow velocity curve with the pulsed-wave Doppler sample volume positioned at the tips of the mitral leaflets during quiet respiration for 30 seconds (or at least five cardiac cycles).
 * For all Doppler recordings:
@@ -22,7 +22,7 @@ In addition to 2D imaging, the following Doppler examinations will be required f
 
 ### 8.6.3.2 Tissue Doppler Imaging (TDI) Spectra of Mitral Annulus
 
-**IMAGE**
+_IMAGE_
 
 1. From the lateral aspect of the mitral annulus, decrease image depth (to include the LV and a small part of the LA) and optimize the 2D image for the LV, focusing on the lateral wall and mitral annular region.
 2. Adjust the image to orient the motion of the lateral wall parallel to the cursor. Both gains and filter settings should be set low to obtain the best images.
