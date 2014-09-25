@@ -1,13 +1,11 @@
 ## 13.5 Merging the Patient and Eligibility Search
 
-* 1. Log into RPDR Enhanced Query Tool via a Partners computer
-* 2. Select **Query Items**
-* 3. Set search fields as follows
-
+1. Log into RPDR Enhanced Query Tool via a Partners computer
+2. Select **Query Items**
+3. Set search fields as follows
  * **Group 1:** Your initial search based on the supporting cardiologists clinic
  * **Group 2:** Your second search based on criteria
-
-* 4. Click **Run Query** to see estimated number of matches.  Ensure **Any Visit** is selected and click run.
+4. Click **Run Query** to see estimated number of matches.  Ensure **Any Visit** is selected and click run.
 
 
 <div class="center">
