@@ -1,14 +1,12 @@
 ## 11.7 1-Week Follow-Up Respiratory Therapist Visit
 
-* 1. Review Adherence data by downloading the card locally and provide feedback based on adherence data.  **Do no download PAP adherence for participants randomized to a SHAM machine.**
-* 2. Reinforce PAP use
-* 3. Make any adjustments in mask
-* 4. Problem solve:
-
+1. Review Adherence data by downloading the card locally and provide feedback based on adherence data.  **Do no download PAP adherence for participants randomized to a SHAM machine.**
+2. Reinforce PAP use
+3. Make any adjustments in mask
+4. Problem solve:
  * Discuss any side effects or issues the subject has experienced, giving suggestions on how to reduce side effects or handle any issues
  * For SHAM participants: many of these participants may report continued symptoms of sleep apnea. Please be supportive and focus on sleep hygiene and use of nasal dilators. For example, ask them to do their best to use their PAP machine but also note the importance of getting > 7 hours of sleep per night, etc.
-
-* 5. Document adherence and subjective improvement to therapy in progress note provided in subject’s binder
+5. Document adherence and subjective improvement to therapy in progress note provided in subject’s binder
 
 
 <div class="center">
