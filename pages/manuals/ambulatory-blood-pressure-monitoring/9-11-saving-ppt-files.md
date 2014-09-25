@@ -1,25 +1,21 @@
 ## 9.11 Saving Participant Files
 
-* 1. Create a main folder where your site’s 24 Hour BP files are saved.
-* 2. Make a folder for each participant, naming it: **12345ABCD##**
-
+1. Create a main folder where your site’s 24 Hour BP files are saved.
+2. Make a folder for each participant, naming it: **12345ABCD##**
  * 5 digit participant ID
  * Name Code
  * 00=Baseline; 06= Six-Month Visit; 12=Final visit
-
-* 3. Select **Review/Edit Patient Test** from the Main Menu to access the Report Manager.
-* 4. Select and highlight the participant you want to save and transmit to the DCC.
-* 5. Select **File > Save** (don’t select save as).  The data will be saved as an xxx.abp file.
-* 6. Browse to the folder you created for 24 Hour BP files.
-* 7. Rename the file to this format:  **12345ABCD##.abp**
-
+3. Select **Review/Edit Patient Test** from the Main Menu to access the Report Manager.
+4. Select and highlight the participant you want to save and transmit to the DCC.
+5. Select **File > Save** (don’t select save as).  The data will be saved as an xxx.abp file.
+6. Browse to the folder you created for 24 Hour BP files.
+7. Rename the file to this format:  **12345ABCD##.abp**
  * 5 digit participant ID
  * Name Code
  * 00=Baseline; 06= Six-Month Visit; 12=Final visit
  * .abp- file type
-
-* 8. Select **OK**.
-* 9. Save the .abp file and a .pdf of the report in its appropriate folder.
+8. Select **OK**.
+9. Save the .abp file and a .pdf of the report in its appropriate folder.
 
 
 
