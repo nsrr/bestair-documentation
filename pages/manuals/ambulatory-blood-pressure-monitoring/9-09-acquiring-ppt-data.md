@@ -2,26 +2,20 @@
 
 When monitor is returned from participant, it is ready to be uploaded to staff computer at your site.
 
-* 1. Connect the ABP monitor to the ABP Report Management System using the monitor interface cable.
-* 2. Start the Client application.
-* 3. Select **Upload Monitor** on the Main Menu.
-* 4. Select **Acquire Monitor** Data to upload patient data.
-* 5. Select **Next** once the data transfer is complete.
-* 6. Enter Patient Demographic Information.
-
+1. Connect the ABP monitor to the ABP Report Management System using the monitor interface cable.
+2. Start the Client application.
+3. Select **Upload Monitor** on the Main Menu.
+4. Select **Acquire Monitor** Data to upload patient data.
+5. Select **Next** once the data transfer is complete.
+6. Enter Patient Demographic Information.
  * Select **Search Patient** to search for the appropriate Participant ID.  The participant’s information should populate the fields entered during set-up.
  * Select **Next**.
-
-* 7. Enter Test-Related Information.
-
+7. Enter Test-Related Information.
  * Select **BestAIR** from the Select Statistic Setting drop down menu.
  * Select **Next**.
-
-* 8. Patient information should not have to be changed or entered.
-
+8. Patient information should not have to be changed or entered.
 _Do **<u>not</u>** add events to the **Diary Events** section. Times have to be identical to what the report outputs and this is not easily noted at this place._
-
-* 9. Select **Finish**.
+9. Select **Finish**.
 
 
 <div class="center">
