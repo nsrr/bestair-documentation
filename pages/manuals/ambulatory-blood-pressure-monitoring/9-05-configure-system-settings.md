@@ -23,30 +23,32 @@ The Statistics tab contains settings for data analysis limits.
 4. Click **Close**
 5. Define the edit limits for data analysis
 
-  | Parameters     | Limit |
-  |:--------------:|:-----:|
-  | Systolic Max   | 260   |
-  | Systolic Min   | 60    |
-  | Diastolic Max  | 200   |
-  | Diastolic Min  | 30    |
-  | MAP Max        | 230   |
-  | MAP Min        | 40    |
-  | PP Max         | 150   |
-  | PP Min         | 20    |
-  | Heart Rate Max | 200   |
-  | Heart Rate Min | 20    |
+    | Parameters     | Limit |
+    |:--------------:|:-----:|
+    | Systolic Max   | 260   |
+    | Systolic Min   | 60    |
+    | Diastolic Max  | 200   |
+    | Diastolic Min  | 30    |
+    | MAP Max        | 230   |
+    | MAP Min        | 40    |
+    | PP Max         | 150   |
+    | PP Min         | 20    |
+    | Heart Rate Max | 200   |
+    | Heart Rate Min | 20    |
+
 6. Define the statistical period boundaries.
 
-  |Parameters                                 | Boundary |
-  |:-----------------------------------------:|:--------:|
-  | Start Hour                                | 7        |
-  | Expected Average Systolic Blood Pressure  | 120      |
-  | Expected Average Diastolic Blood Pressure | 80       |
-  | Do not check Sleep Box.                   |          |
-  | Start Hour                                | 23       |
-  | Expected Average Systolic Blood Pressure  | 120      |
-  | Expected Average Diastolic Blood Pressure | 80       |
-  | Check Sleep Box.                          |          |
+    |Parameters                                 | Boundary |
+    |:-----------------------------------------:|:--------:|
+    | Start Hour                                | 7        |
+    | Expected Average Systolic Blood Pressure  | 120      |
+    | Expected Average Diastolic Blood Pressure | 80       |
+    | Do not check Sleep Box.                   |          |
+    | Start Hour                                | 23       |
+    | Expected Average Systolic Blood Pressure  | 120      |
+    | Expected Average Diastolic Blood Pressure | 80       |
+    | Check Sleep Box.                          |          |
+
 7. Select **OK** to save settings.
 
 ### 9.5.4 Initializing Settings
@@ -63,16 +65,16 @@ The Statistics tab contains settings for data analysis limits.
  * Check **24-hour** for the Monitor Clock Display.
 3. Set the Wake and Sleep Configuration defaults.
 
-  | Parameters                 | Defaults |
-  |:--------------------------:|:--------:|
-  | Wake Periods               |          |
-  | Start Hour                 | 7        |
-  | Readings/Hour              | 3        |
-  | Check the Tone Box.        |          |
-  | Sleep Periods              |          |
-  | Start Hour                 | 23       |
-  | Readings/Hour              | 2        |
-  | Do not check the Tone Box. |          |
+    | Parameters                 | Defaults |
+    |:--------------------------:|:--------:|
+    | Wake Periods               |          |
+    | Start Hour                 | 7        |
+    | Readings/Hour              | 3        |
+    | Check the Tone Box.        |          |
+    | Sleep Periods              |          |
+    | Start Hour                 | 23       |
+    | Readings/Hour              | 2        |
+    | Do not check the Tone Box. |          |
 
 4.  Select **OK** to save settings.
 **The SYSTEM TAB contains language, password, and time display settings.**
@@ -88,14 +90,14 @@ The Statistics tab contains settings for data analysis limits.
 3. Select **Initialize Monitor** to start the Monitor.
 4. Enter the appropriate participant information under Patient Demographic Information.
 
-  | Parameter     | Information    |
-  | :------------:|:--------------:|
-  | Patient ID    | Participant ID |
-  | Last Name     | Acrostic       |
-  | First Name    | 0, 6, or 12    |
-  | Date of Birth | Default        |
-  | Race          | Unspecified    |
-  | Gender        | Unspecified    |
+    | Parameter     | Information    |
+    | :------------:|:--------------:|
+    | Patient ID    | Participant ID |
+    | Last Name     | Acrostic       |
+    | First Name    | 0, 6, or 12    |
+    | Date of Birth | Default        |
+    | Race          | Unspecified    |
+    | Gender        | Unspecified    |
 
 5. Select **Indications**.
  * Select **New/Edit**.
