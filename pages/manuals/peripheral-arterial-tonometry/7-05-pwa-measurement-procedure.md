@@ -4,38 +4,36 @@
 
 Before creating a new patient entry, please check that the patient does not already exist in the database, as separate patient entries cannot be merged.
 
-* 1. Enter a new patient.
-* 2. Select **Patient** button or press **F2** to open Patient Screen
-* 3. Select **New** button
-* 4. Enter patient details
-
+1. Enter a new patient.
+2. Select **Patient** button or press **F2** to open Patient Screen
+3. Select **New** button
+4. Enter patient details
  * First Name:  Name Code
  * Last Name: Participant ID
-
-* 5.**Update** button.
+5.**Update** button.
 
 ### 7.5.2 Take a PWA Measurement
 
-* 6. In Patient Screen, select **PWA** by clicking on the arrow on the selection box (located next to the Analysis button).
-* 7. Select **Study** button or press **F3** to open Study Screen.
-* 8. Enter study details.
+6. In Patient Screen, select **PWA** by clicking on the arrow on the selection box (located next to the Analysis button).
+7. Select **Study** button or press **F3** to open Study Screen.
+8. Enter study details.
 
 ### 7.5.3 Radial Artery Measurements
 
-* 9. Select the **Radial** check box
-* 10. Enter the diastolic and systolic blood pressure values that have been obtained from cuff sphygmomanometer or automatic blood pressure device.
-* 11. Select **Capture Data**
+9. Select the **Radial** check box
+10. Enter the diastolic and systolic blood pressure values that have been obtained from cuff sphygmomanometer or automatic blood pressure device.
+11. Select **Capture Data**
 
 ### 7.5.4 Tonometer Placement
 
-* 12. Place on the wrist, where the strongest radial pulse can be palpated.
-* 13. Make sure the probe is placed normal to the plane of the artery (adjustments to the angle may need to be made) and adjust position until a strong, accurate, and reproducible waveform is made and displayed in the Signal Detail window.
+12. Place on the wrist, where the strongest radial pulse can be palpated.
+13. Make sure the probe is placed normal to the plane of the artery (adjustments to the angle may need to be made) and adjust position until a strong, accurate, and reproducible waveform is made and displayed in the Signal Detail window.
 
 This signal will be automatically rescaled and zoomed to fit the waveform within the signal detail window every 5 seconds.
 
 ### 7.5.5 Capturing the Waveforms
 
-* 14. Select **OK** at the top of the screen or press the spacebar when you get a good reading.
+14. Select **OK** at the top of the screen or press the spacebar when you get a good reading.
 
  * There must be a minimum of 12 seconds of signal for the data to be captured.  The last 2 seconds of waveforms will be deleted, allowing sufficient time to remove the tonometer from the wrist to activate the capture of data.
  * The software analyzes the last 10 seconds of waveform.  The 10 second window of waveforms to be captured is displayed in the Signal for Processing Area immediately below the Signal Detail window in the capture screen.
