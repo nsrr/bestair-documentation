@@ -6,16 +6,14 @@
 | Extra Urine | 15 ml | 3x7 ml p.p. | Aliquot 5 ml of urine into 3x7 ml p.p. tube. Place sample into freezer. Pick up by study coordinator. |
 
 
-* 1. Check form for Study and PeopleSoft account number and revise to CCI account number, as appropriate.
-* 2. Check code label on specimen with code given on requisition form and log specimen sample on log sheet.
-* 3. Call LabCorp dispatcher for pick-up at 1-800-258-1441, option 8, within 30 minutes of the sample being delivered to the Processing Lab.
-* 4. Provide the dispatcher with:
-
+1. Check form for Study and PeopleSoft account number and revise to CCI account number, as appropriate.
+2. Check code label on specimen with code given on requisition form and log specimen sample on log sheet.
+3. Call LabCorp dispatcher for pick-up at 1-800-258-1441, option 8, within 30 minutes of the sample being delivered to the Processing Lab.
+4. Provide the dispatcher with:
  * **Account Number:** BestAIR Cost Center
  * **Time for pick-up:**
  * **Location:** 75 Francis St, 9TH floor (processing lab)
-
-* 5.Place LabCorp Requisition Form in specimen bag and hold in cold room for LabCorp pick-up.
+5.Place LabCorp Requisition Form in specimen bag and hold in cold room for LabCorp pick-up.
 
 
 <div class="center">
