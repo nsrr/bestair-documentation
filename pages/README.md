@@ -1,13 +1,28 @@
-# About the Study
+# About
 
-BestAIR is a planning study designed to provide information about design features that would strengthen a later, large-scale Phase 3 RCT. The study aimed to enroll approximately 225 patients with moderate to severe sleep apnea who had either established cardiovascular disease (CVD) or at least 3 CVD risk factors into a two week run-in period, and then to randomize a projected 80% (n=180) of these individuals into a 12-month, 4-arm intervention study. For the run-in period, participants were asked to apply nasal dilator strips (Breathe Right®) and a CPAP mask nightly (open to the atmosphere and not connected to a CPAP machine) and to complete a sleep diary. Two treatment arms included active CPAP and two were control conditions. All arms included nightly use of nasal dilator strips and conservative medical therapy (CMT) defined as formal provision of education on healthy sleep and healthy lifestyle.  The active groups were: 1) active CPAP treatment delivered using standard adherence education and support delivered by a trained sleep technician; 2) active CPAP treatment administered using adherence education and support delivered by a trained sleep technician and enhanced by a behavioral promotion intervention delivered by a sleep medicine behavioral therapist using cognitive behavioral therapy and motivational enhancement. The control groups were: 3) sham-CPAP use delivered by a trained sleep technician; and 4) CMT alone. The primary physiological outcome was change in mean 24-hour systolic blood pressure from baseline to follow-up, based on ambulatory blood pressure monitoring data, in the two active compared to the two control groups. The primary process measures were recruitment yields, retention rates, and CPAP adherence levels, with specific interests in comparing adherence rates in the two active arms to assess any impact of a behavioral promotion intervention; and in comparing retention rates and patient-reported outcomes between the two control groups.
+The Best Apnea Interventions for Research (BestAIR) study aimed to randomize approximately 180 patients with sleep apnea who had either established CVD or at least three CVD risk factors into a 12-mo, four-arm intervention study. All arms included nightly use of nasal dilator strips and conservative medical therapy (CMT) defined as education on healthy sleep and lifestyle. The two active arms were: (1) active CPAP delivered using standard support from a trained sleep technician; and (2) active CPAP enhanced by a behavioral promotion intervention delivered by a behavioral therapist. The two control arms were: (1) sham-CPAP; and (2) CMT alone. The primary physiological outcome was change in mean 24-h systolic blood pressure. Process measures were recruitment yields, retention rates, and CPAP adherence levels.
+
+Read more about BestAIR at [ClinicalTrials.gov (NCT01261390)](http://clinicaltrials.gov/ct2/show/NCT01261390).
+
+## Data overview
+
+**[/datasets](:files_path:/datasets)** ([introduction](:pages_path:/dataset-introduction.md)) <br/> Core data from BestAIR Baseline, 6-Month, and 12-month visits.
+
+**[/polysomnography](:files_path:/polysomnography)** ([introduction](:pages_path:/polysomnography-introduction.md))<br/> Overnight polysomnography (PSG) data from BestAIR baseline and follow-up visits.
+
+## Protocols and manuals
+
+- Manual
+
+## Recent Changes
+
+- Find a complete list of changes in the [CHANGELOG.md](:pages_path:/CHANGELOG.md)
 
 ## Citation
 
 When citing this dataset please use:
 
-> Redline, S., et al. "BestAIR Study." National Sleep Research Resource. Web. http://sleepdata.org/datasets/bestair.
+1. Dean DA 2nd, Goldberger AL, Mueller R, Kim M, Rueschman M, Mobley D, Sahoo SS, Jayapandian CP, Cui L, Morrical MG, Surovec S, Zhang GQ, Redline S. [**Scaling Up Scientific Discovery in Sleep Medicine: The National Sleep Research Resource.**](https://www.ncbi.nlm.nih.gov/pubmed/27070134) Sleep. 2016 May 1;39(5):1151-64. doi: 10.5665/sleep.5774. Review. PubMed PMID: 27070134; PubMed Central PMCID: PMC4835314.
+2. Zhang GQ, Cui L, Mueller R, Tao S, Kim M, Rueschman M, Mariani S, Mobley D, Redline S. [**The National Sleep Research Resource: towards a sleep data commons.**](https://www.ncbi.nlm.nih.gov/pubmed/29860441) J Am Med Inform Assoc. 2018 May 31. doi: 10.1093/jamia/ocy064. [Epub ahead of print] PubMed PMID: 29860441.
 
-## Recent Changes
-
-- Find a complete list of changes in the [CHANGELOG.md](:pages_path:/CHANGELOG.md)
+This study was supported by NIH NHLBI [Grant 1U34HL105277] and a grant from ResMed Foundation. Equipment was donated by ResMed and Philips Respironics.
