@@ -12,7 +12,8 @@ Read more about BestAIR at [ClinicalTrials.gov (NCT01261390)](http://clinicaltri
 
 ## Protocols and manuals
 
-- Manual
+- [BestAIR Manual of Procedures](:files_path:/documentation?f=BestAIR_Manual_of_Procedures.pdf)
+- [BestAIR Forms](:files_path:/forms)
 
 ## Recent Changes
 
