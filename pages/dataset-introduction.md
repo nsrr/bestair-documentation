@@ -6,7 +6,7 @@ The [BestAIR dataset](:files_path:/datasets) posted on the NSRR has gone through
 
 ## Structure
 
-The dataset is broken down into `baseline`, `month6`, and `month12` (i.e. follow-up) files, containing 169, 169, and 108 records, respectively. The primary subject identifier is `nsrrid`(https://sleepdata.org/datasets/bestair/variables/nsrrid).
+The dataset is broken down into `baseline`, `month6`, and `month12` (i.e. follow-up) files, containing 169, 169, and 108 records, respectively. The primary subject identifier is [`nsrrid`](https://sleepdata.org/datasets/bestair/variables/nsrrid).
 
 ## Explanation of treatment arms
 
