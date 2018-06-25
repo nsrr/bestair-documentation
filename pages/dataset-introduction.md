@@ -10,7 +10,7 @@ The dataset is broken down into `baseline`, `month6`, and `month12` (i.e. follow
 
 ## Explanation of treatment arms
 
-Each BestAIR subject was randomized to one of four treatment arms. The assigned arm is represented by the [rand_treatmentarm](https://sleepdata.org/datasets/bestair/variables/rand_treatmentarm) variable. The meanings of the arms are as follows:
+Each BestAIR subject was randomized to one of four treatment arms. The assigned arm is represented by the [`rand_treatmentarm`](https://sleepdata.org/datasets/bestair/variables/rand_treatmentarm) variable. The meanings of the arms are as follows:
 
 1. Conservative Medical Therapy (CMT)
 2. CMT + Sham CPAP

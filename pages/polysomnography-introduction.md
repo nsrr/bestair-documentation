@@ -1,6 +1,6 @@
 # Polysomnography introduction
 
-About BestAIR PSG.
+Sleep studies took place either through normal clinical channels for those recruited from sleep clinics (level 1 polysomnography or level 3 home sleep tests), or administered by the investigators for those recruited from cardiology or diabetes clinics (using either Embletta Gold or Embletta X100, Embla). All studies were scored by a single registered polysomnographic technologist using the American Academy of Sleep Medicine (AASM) alternative hypopnea criteria when arousal data were available, or the AASM recommended criteria when electroencephalographic data were not recorded.
 
 Notes:
 
