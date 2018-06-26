@@ -6,9 +6,9 @@ Read more about BestAIR at [ClinicalTrials.gov (NCT01261390)](http://clinicaltri
 
 ## Data overview
 
-**[/datasets](:files_path:/datasets)** ([introduction](:pages_path:/dataset-introduction.md)) <br/> Core data from BestAIR Baseline, 6-Month, and 12-month visits.
+**[/datasets](:files_path:/datasets)** ([introduction](:pages_path:/dataset-introduction.md)) <br/> Core data from baseline and follow-up visits.
 
-**[/polysomnography](:files_path:/polysomnography)** ([introduction](:pages_path:/polysomnography-introduction.md))<br/> Overnight polysomnography (PSG) data from BestAIR baseline and follow-up visits.
+**[/polysomnography](:files_path:/polysomnography)** ([introduction](:pages_path:/polysomnography-introduction.md))<br/> Overnight polysomnography (PSG) data from baseline and follow-up visits.
 
 ## Protocols and manuals
 
