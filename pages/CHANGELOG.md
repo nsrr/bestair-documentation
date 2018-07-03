@@ -1,3 +1,7 @@
+### July 3, 2018
+
+- Add [montage and sampling rate information](:pages_path:/montage-and-sampling-rate-information.md)
+
 ### June 21, 2018
 
 - Remove old manual pages, start work on introduction pages

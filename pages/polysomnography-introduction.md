@@ -4,7 +4,7 @@ Sleep studies took place either through normal clinical channels for those recru
 
 Notes:
 
-- Montage and Sampling Rate Information (*will be posted soon*)
+- [Montage and Sampling Rate Information](:pages_path:/montage-and-sampling-rate-information.md)
 - The majority of sleep studies were conducted at home using the Embletta devices. A small subset of studies were collected in laboratory settings.
 
 ## Signal and annotation files
