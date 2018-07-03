@@ -15,6 +15,9 @@ Read more about BestAIR at [ClinicalTrials.gov (NCT01261390)](http://clinicaltri
 - [BestAIR Manual of Procedures](:files_path:/documentation?f=BestAIR_Manual_of_Procedures.pdf)
 - [BestAIR Forms](:files_path:/forms)
 
+## Equipment
+- [Montage and Sampling Rate Information](:pages_path:/montage-and-sampling-rate-information.md)
+
 ## Recent Changes
 
 - Find a complete list of changes in the [CHANGELOG.md](:pages_path:/CHANGELOG.md)
