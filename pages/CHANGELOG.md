@@ -1,3 +1,7 @@
+### July 30, 2018
+
+- Add blurb about forms to dataset introduction
+
 ### July 3, 2018
 
 - Add [montage and sampling rate information](:pages_path:/montage-and-sampling-rate-information.md)
