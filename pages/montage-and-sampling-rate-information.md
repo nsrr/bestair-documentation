@@ -22,7 +22,6 @@ The settings below represent the standards set at the beginning of the project f
 | SpO2-BB            | SpO2-BB      | SpO2-BB      | -       | 3                  | -                     |                                         |
 | Oximetry Status    | SpO2-Quality | SpO2-Quality | -       | 3                  | -                     |                                         |
 | RD-Quality         | RD-Quality   | RD-Quality   | -       | 75                 | -                     |                                         |
-| Nasal Pressure     | Flow         | Flow         | -       | 50                 | -                     | Nasal Cannula flow                      |
 | Elevation          | Elevation    | Elevation    | -       | 10                 | -                     |                                         |
 | Position           | Position     | Position     | -       | 10                 | -                     | Derived from Embla internal X-Y gravity |
 | Phase              | Phase        | Phase        | -       | 50                 | -                     |                                         |
