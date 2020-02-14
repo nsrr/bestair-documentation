@@ -22,10 +22,11 @@ The settings below represent the standards set at the beginning of the project f
 | SpO2-BB            | SpO2-BB      | SpO2-BB      | -       | 3                  | -                     |                                         |
 | Oximetry Status    | SpO2-Quality | SpO2-Quality | -       | 3                  | -                     |                                         |
 | RD-Quality         | RD-Quality   | RD-Quality   | -       | 75                 | -                     |                                         |
+| Flow               | Flow         | Flow         | -       | 50                 | -                     |                                         |
 | Elevation          | Elevation    | Elevation    | -       | 10                 | -                     |                                         |
 | Position           | Position     | Position     | -       | 10                 | -                     | Derived from Embla internal X-Y gravity |
 | Phase              | Phase        | Phase        | -       | 50                 | -                     |                                         |
-| RMI                | RMI          | RMI          | -       | 50                 | -                     |                                         |
+| RMI                | RMI          | RMI          | -       | 50                 | -                     | Respiratory Mechanic Instability        |
 | RR                 | RR           | RR           | -       | 1                  | -                     |                                         |
 | Tidal Volume       | Tidal Volume | Tidal Volume | -       | 50                 | -                     |                                         |
 | XFlow              | XFlow        | XFlow        | -       | 50                 | -                     | Derived from Embla XactTrace belt       |
