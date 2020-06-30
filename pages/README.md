@@ -14,7 +14,7 @@ When using this dataset, please cite the following:
 
 Please include the following text in the Acknowledgements:
 
-> The Best Apnea Interventions in Research (BestAIR) was supported by the National Heart, Lung, and Blood Institute (1U34HL105277) and a grant from ResMed Foundation. Equipment was donated by ResMed and Philips Respironics. The National Sleep Research Resource was supported by the National Heart, Lung, and Blood Institute (R24 HL114473, RFP 75N92019R002).
+> The Best Apnea Interventions in Research (BestAIR) was supported by the National Heart, Lung, and Blood Institute (1U34HL105277) and a grant from ResMed Foundation. Equipment was donated by ResMed and Philips Respironics. The National Sleep Research Resource was supported by the National Heart, Lung, and Blood Institute (R24 HL114473, 75N92019R002).
 
 ## Data overview
 
